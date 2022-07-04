@@ -1,0 +1,69 @@
+﻿U
+R
+R
+R
+D
+L
+L
+L
+U
+U
+R # -BELT IS SHIFT
+L
+D
+R # 
+L
+L
+L
+D
+D
+R
+R
+D
+R
+U
+U
+U
+R
+Rt
+.t
+D
+Ut # +BABA IS SHIFT
+L
+R
+D
+D
+D
+D
+R
+R
+R
+R
+R
+R
+U # -BABA IS SHIFT
+D
+Rt
+U
+U
+U
+U # +FLAG IS WIN
+D
+D
+D
+Dt
+U # +BELT IS SHIFT
+R
+R
+R
+R
+R
+U
+U
+U
+U
+U
+U
+L
+L
+wL
