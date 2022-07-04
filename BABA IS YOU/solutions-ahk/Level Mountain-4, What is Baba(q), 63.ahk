@@ -288,14 +288,9 @@ Sleep %KeyDownTime%
 Send, {Left up}
 Sleep %BabaStepRelax%
 
-Send, {Left down}
+Send, {Down down}
 Sleep %KeyDownTime%
-Send, {Left up}
-Sleep %BabaStepRelax%
-
-Send, {Left down}
-Sleep %KeyDownTime%
-Send, {Left up}
+Send, {Down up}
 Sleep %BabaStepRelax%
 
 Send, {Down down}
@@ -303,29 +298,24 @@ Sleep %KeyDownTime%
 Send, {Down up}
 Sleep %BabaStepRelax%
 
-Send, {Right down}
+Send, {Left down}
 Sleep %KeyDownTime%
-Send, {Right up}
-Sleep %BabaStepRelax%
-
-Send, {Right down}
-Sleep %KeyDownTime%
-Send, {Right up}
-Sleep %BabaStepRelax%
-
-Send, {Down down}
-Sleep %KeyDownTime%
-Send, {Down up}
-Sleep %BabaStepRelax%
-
-Send, {Right down}
-Sleep %KeyDownTime%
-Send, {Right up}
+Send, {Left up}
 Sleep %BabaStepRelax%
 
 Send, {Up down}
 Sleep %KeyDownTime%
 Send, {Up up}
+Sleep %BabaStepRelax%
+
+Send, {Right down}
+Sleep %KeyDownTime%
+Send, {Right up}
+Sleep %BabaStepRelax%
+
+Send, {Right down}
+Sleep %KeyDownTime%
+Send, {Right up}
 Sleep %BabaStepRelax%
 
 Send, {Right down}

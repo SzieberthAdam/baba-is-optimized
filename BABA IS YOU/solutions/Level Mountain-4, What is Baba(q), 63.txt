@@ -53,13 +53,11 @@ D
 D
 D
 L
-L
-L
 D
-R
-R
 D
-R
+L
 U
+R
+R
 R
 wL # +BABA IS WIN
