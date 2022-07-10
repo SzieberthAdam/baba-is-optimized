@@ -3,8 +3,8 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
-KeyDownTime = 25
-BabaStepRelax = 175
+KeyDownTime = 50
+BabaStepRelax = 150
 NotYouRelax = 0
 TeleportRelax = 0
 WinRelax = 0
