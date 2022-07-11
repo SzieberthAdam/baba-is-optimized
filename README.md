@@ -57,7 +57,7 @@ I rather recommend using a text editor which has line numbering to see how many.
 
 ### Actions
 
-Only actions are required for a valid solution file. One action per line, one line per action!
+Only actions are required for a valid solution file. One action per line, one line per action! No empty lines!
 
 * **U**: up
 * **D**: down
