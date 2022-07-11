@@ -12,7 +12,7 @@ This is how *Baba Is You* should look like in the *OBS Studio* window, prepared 
 
 Add a *Window Capture* source with the following settings.
 
-![OBS Wideo Capture Source](https://raw.githubusercontent.com/SzieberthAdam/baba-is-you-solutions/master/autobaba/OBS/OBS-Window Capture.png)
+![OBS Wideo Capture Source](https://raw.githubusercontent.com/SzieberthAdam/baba-is-you-solutions/master/autobaba/OBS/OBS-WindowCapture.png)
 
 ## OBS Studio Settings
 
