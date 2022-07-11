@@ -1,5 +1,5 @@
-﻿Baba Is You Solutions
-=====================
+﻿Baba Is You Solutions – *World Records*
+=======================================
 
 This site is dedicated to Baba Is You, which is a puzzle video game created by Finnish indie developer Arvi Teikari.
 I keep track of the shortest solutions for the levels of the game.
