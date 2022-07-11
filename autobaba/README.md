@@ -32,3 +32,9 @@ Usage
 9. If the level is not yet won then go back to point 3. If won then run `autobaba.bat` which creates your final `autobaba.ahk`.
 10. Copy and rename `autobaba.txt` and `autobaba.ahk` files to a safe place. I recommend using my name format: `Level Cavern-11, Trick Door, 114.txt` and `Level Cavern-11, Trick Door, 114.ahk`. Here the solution was done in 114 time units. To get the number of time units of `autobaba.txt`, run the `linecount.bat` batch file.
 11. Finally, run `reset.bat` to clean up `autobaba.txt` and `autobaba.ahk` files.
+
+
+Video Making
+------------
+
+*Coming soon…*
