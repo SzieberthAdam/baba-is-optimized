@@ -4,6 +4,7 @@
 ## Target Result
 
 This is how *Baba Is You* should look like in the *OBS Studio* window, prepared for recording.
+
 *Please note the recommended settings for *Baba Is You* within.*
 
 ![OBS](https://raw.githubusercontent.com/SzieberthAdam/baba-is-you-solutions/master/autobaba/OBS/OBS.png)
