@@ -15,10 +15,11 @@ autobaba
 Autobaba is not a levelpack but a toolbar to note, test, and publish solutions.
 
 
-Format
-------
+Solution Format
+---------------
 
-The syntax of a solution is very simple:
+The syntax of a solution is very simple.
+Solutions are stored in plain text files with `.TXT` extension.
 
 ```
 L
@@ -49,6 +50,7 @@ wD
 ```
 
 This is the shortest solution to *Level 1: Where Do I Go?* done in 25 time units.
+[See it in this repo](https://github.com/SzieberthAdam/baba-is-you-solutions/blob/master/BABA%20IS%20YOU/solutions/Level-1%2C%20Where%20Do%20I%20Go(q)%2C%2025.txt).
 [Watch the solution by Alayric](https://youtu.be/42OOvZxvH6k).
 You can count the lines one-by-one to get the time units the solution takes which is 25.
 I rather recommend using a text editor which has line numbering to see how many.
