@@ -164,6 +164,6 @@
 | 10. Mountaintop | Level Mountain-4 | What is Baba? | 63 | [SZIEBERTH Ádám](https://youtu.be/mGJcfGSDfqY) |
 | 10. Mountaintop | Level Mountain-5 | Connector | 115 | [SZIEBERTH Ádám](https://youtu.be/gLomWpQGc9M) |
 | 10. Mountaintop | Level Mountain-6 | Floaty Platforms | 93 | SZIEBERTH Ádám |
-| 10. Mountaintop | Level Mountain-7 | Seeking Acceptance |||
+| 10. Mountaintop | Level Mountain-7 | Seeking Acceptance | 186 | SZIEBERTH Ádám |
 | 10. Mountaintop | Level Mountain-8 | Tectonic Movements |||
 | 10. Mountaintop | Level Mountain-Extra 1 | The Floatiest Platforms |||
