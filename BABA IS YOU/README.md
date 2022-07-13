@@ -166,4 +166,4 @@
 | 10. Mountaintop | Level Mountain-6 | Floaty Platforms | 93 | [SZIEBERTH Ádám](https://youtu.be/AkoTeFZR21U) |
 | 10. Mountaintop | Level Mountain-7 | Seeking Acceptance | 186 | [SZIEBERTH Ádám](https://youtu.be/0Xr8qV0bwNk) |
 | 10. Mountaintop | Level Mountain-8 | Tectonic Movements | 149 | [SZIEBERTH Ádám](https://youtu.be/CfX71lzhnAc) |
-| 10. Mountaintop | Level Mountain-Extra 1 | The Floatiest Platforms |||
+| 10. Mountaintop | Level Mountain-Extra 1 | The Floatiest Platforms | 75 | [SZIEBERTH Ádám](https://youtu.be/_o2VFN3cDh4) |
