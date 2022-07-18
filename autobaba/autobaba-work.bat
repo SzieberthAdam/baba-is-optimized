@@ -10,4 +10,4 @@ if /I [%answer%]==[q] goto end
 
 goto loop
 
-:end 
+:end

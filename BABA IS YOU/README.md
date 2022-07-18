@@ -1,22 +1,23 @@
 ﻿LEVELPACK: *BABA IS YOU*
 ========================
 
-### Number of Levels: 162
+### Number of Levels: 179
 
 | Map Location | Level Code | Level Name | Best | Best By |
 | ------------ | ---------- | ---------- | ----:| ------- |
-| *main* | Level 0 | Baba Is You |||
-| *main* | Level 1 | Where Do I Go? | 25 | [Alayric](https://youtu.be/42OOvZxvH6k) |
-| *main* | Level 2 | Now What Is This? |||
-| *main* | Level 3 | Out of Reach |||
-| *main* | Level 4 | Still Out of Reach |||
-| *main* | Level 5 | Volcano |||
-| *main* | Level 6 | Off Limits |||
-| *main* | Level 7 | Grass Yard |||
-| *main* | Level 8 | Slideshow |||
-| *main* | Level 9 | Fragile Existence |||
-| *main* | Level 10 | Hostile Environment |||
-| *main* | Level Finale | A Way Out? |||
+| *Map* | Level 0 | Baba Is You |||
+| *Map* | Level 1 | Where Do I Go? | 25 | [Alayric](https://youtu.be/42OOvZxvH6k) |
+| *Map* | Level 2 | Now What Is This? |||
+| *Map* | Level 3 | Out of Reach |||
+| *Map* | Level 4 | Still Out of Reach |||
+| *Map* | Level 5 | Volcano |||
+| *Map* | Level 6 | Off Limits |||
+| *Map* | Level 7 | Grass Yard |||
+| *Map* | Level 8 | Slideshow |||
+| *Map* | Level 9 | Fragile Existence |||
+| *Map* | Level 10 | Hostile Environment |||
+| *Map* | Level Finale | A Way Out? |||
+| *Map* | Level ? | ? |||
 | 1. The Lake | Level Lake-1 | Icy Waters |||
 | 1. The Lake | Level Lake-2 | Turns |||
 | 1. The Lake | Level Lake-3 | Affection |||
@@ -167,3 +168,19 @@
 | 10. Mountaintop | Level Mountain-7 | Seeking Acceptance | 186 | [SZIEBERTH Ádám](https://youtu.be/0Xr8qV0bwNk) |
 | 10. Mountaintop | Level Mountain-8 | Tectonic Movements | 149 | [SZIEBERTH Ádám](https://youtu.be/CfX71lzhnAc) |
 | 10. Mountaintop | Level Mountain-Extra 1 | The Floatiest Platforms | 75 | [SZIEBERTH Ádám](https://youtu.be/_o2VFN3cDh4) |
+| ??? | Level ???-1 | Glitch | 28 | SZIEBERTH Ádám |
+| ??? | Level ???-2 | Error | 109 | SZIEBERTH Ádám |
+| ??? | Level ???-3 | Whoops | 112 | SZIEBERTH Ádám |
+| ??? | Level ???-4 | Mean Fence | 38 | SZIEBERTH Ádám |
+| ??? | Level ???-5 | Scale | 58 | SZIEBERTH Ádám |
+| ??? | Level ???-6 | Fireplace | 42 | SZIEBERTH Ádám |
+| ??? | Level ???-7 | Turn the Corner | 98 | SZIEBERTH Ádám |
+| ??? | Level ???-8 | VIP Area |||
+| ??? | Level ???-9 | Tense Atmosphere |||
+| ??? | Level ???-10 | Tag Team |||
+| ??? | Level ???-11 | Security Check |||
+| ??? | Level ???-12 | Ultimate Maze |||
+| ??? | Level ???-Extra 1 | Across |||
+| ??? | Level ???-Extra 2 | Castle Disaster |||
+| ??? | Level ???-Extra 3 | Hazel Den |||
+| ??? | Level ???-Extra 4 | Baba Has Keke |||
