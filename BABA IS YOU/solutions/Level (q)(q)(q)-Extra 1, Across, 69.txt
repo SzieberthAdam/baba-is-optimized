@@ -1,0 +1,69 @@
+R
+R
+R
+U
+U
+U
+U
+U
+U
+R
+R
+D # -KEKE IS MOVE
+D
+U
+U
+R
+R
+R
+R
+D
+L
+L
+U
+L
+D
+D
+D
+U
+U
+L
+L
+D
+D # +KEKE IS PUSH
+L
+L
+D
+D
+D
+L
+D
+R
+R
+U
+U
+U
+U
+R
+D # -KEKE IS PUSH
+U
+U
+R
+D
+D
+R
+D # +KEKE IS MOVE
+L # -KEKE IS MOVE
+U
+L
+L
+D
+D
+R
+R
+R
+R
+R
+R
+R
+wR # +FLAG IS WIN
