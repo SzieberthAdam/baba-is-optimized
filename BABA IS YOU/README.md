@@ -182,5 +182,5 @@
 | ??? | Level ???-12 | Ultimate Maze | 60 | SZIEBERTH Ádám |
 | ??? | Level ???-Extra 1 | Across | 69 | SZIEBERTH Ádám |
 | ??? | Level ???-Extra 2 | Castle Disaster | 49 | SZIEBERTH Ádám |
-| ??? | Level ???-Extra 3 | Hazel Den | 55? | SZIEBERTH Ádám |
+| ??? | Level ???-Extra 3 | Hazel Den | ? 55 | SZIEBERTH Ádám |
 | ??? | Level ???-Extra 4 | Baba Has Keke |||
