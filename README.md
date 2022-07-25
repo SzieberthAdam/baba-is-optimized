@@ -81,6 +81,7 @@ Indicators are optional.
 They indicate special events which may require some extra wait time in the video solution.
 Besides, they provide some extra anchors for the solution viewer with the pairing of the text and the video.
 
+* `?`: indicates a criterion, usually a desired outcome of a random event; put before action and describe the criterion in comment
 * `t`: indicates a teleport trip; put after action
 * `w`: indicates a win condition; put before action
 * `y`: indicates that YOU condition has been ended; put after action

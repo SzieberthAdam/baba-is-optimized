@@ -18,6 +18,7 @@ key_dict = {
 }
 
 key_dict2 = {
+    "?": "",
     "y": "Sleep %NotYouRelax%",
     "t": "Sleep %TeleportRelax%",
     "w": "Sleep %WinRelax%",

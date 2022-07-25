@@ -1,0 +1,55 @@
+R
+R
+U
+R
+U # -SKULL IS PUSH
+L
+L
+U
+L
+D
+L
+U
+U
+R
+U
+U
+R
+R
+D # -ROCK IS TELE
+D
+R
+D
+L
+L
+U
+L
+U
+R # +FLAG IS TELE
+D
+L
+?D # ? if ROCK text is down *and* SKULL text is down
+?L # ? if ROCK text is up *and* SKULL text is up
+U
+R
+R # +ROCK IS PUSH; + SKULL IS PUSH
+D
+D
+R
+D
+D
+R
+R
+R
+R
+R # +FLAG IS WIN
+L
+L
+L
+L
+L
+U
+U
+U
+L
+wL
