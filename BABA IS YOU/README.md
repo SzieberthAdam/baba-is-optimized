@@ -168,19 +168,19 @@
 | 10. Mountaintop | Level Mountain-7 | Seeking Acceptance | 186 | [SZIEBERTH Ádám](https://youtu.be/0Xr8qV0bwNk) |
 | 10. Mountaintop | Level Mountain-8 | Tectonic Movements | 149 | [SZIEBERTH Ádám](https://youtu.be/CfX71lzhnAc) |
 | 10. Mountaintop | Level Mountain-Extra 1 | The Floatiest Platforms | 75 | [SZIEBERTH Ádám](https://youtu.be/_o2VFN3cDh4) |
-| ??? | Level ???-1 | Glitch | 28 | SZIEBERTH Ádám |
-| ??? | Level ???-2 | Error | 109 | SZIEBERTH Ádám |
-| ??? | Level ???-3 | Whoops | 112 | SZIEBERTH Ádám |
-| ??? | Level ???-4 | Mean Fence | 38 | SZIEBERTH Ádám |
-| ??? | Level ???-5 | Scale | 58 | SZIEBERTH Ádám |
-| ??? | Level ???-6 | Fireplace | 42 | SZIEBERTH Ádám |
-| ??? | Level ???-7 | Turn the Corner | 98 | SZIEBERTH Ádám |
-| ??? | Level ???-8 | VIP Area | 77 | SZIEBERTH Ádám |
-| ??? | Level ???-9 | Tense Atmosphere | 65 | SZIEBERTH Ádám |
-| ??? | Level ???-10 | Tag Team | 56 | SZIEBERTH Ádám |
-| ??? | Level ???-11 | Security Check | 97 | SZIEBERTH Ádám |
-| ??? | Level ???-12 | Ultimate Maze | 60 | SZIEBERTH Ádám |
-| ??? | Level ???-Extra 1 | Across | 69 | SZIEBERTH Ádám |
-| ??? | Level ???-Extra 2 | Castle Disaster | 49 | SZIEBERTH Ádám |
-| ??? | Level ???-Extra 3 | Hazel Den | ? 55 | SZIEBERTH Ádám |
-| ??? | Level ???-Extra 4 | Baba has Keke | 228 | SZIEBERTH Ádám |
+| ??? | Level ???-1 | Glitch | 28 | [SZIEBERTH Ádám](https://youtu.be/KJLFOVuWAT0) |
+| ??? | Level ???-2 | Error | 109 | [SZIEBERTH Ádám](https://youtu.be/BjYgzo0KHTo) |
+| ??? | Level ???-3 | Whoops | 112 | [SZIEBERTH Ádám](https://youtu.be/SpLdkodnpcE) |
+| ??? | Level ???-4 | Mean Fence | 38 | [SZIEBERTH Ádám](https://youtu.be/gNVGxwqsWtI) |
+| ??? | Level ???-5 | Scale | 58 | [SZIEBERTH Ádám](https://youtu.be/rcc5KQLZd0c) |
+| ??? | Level ???-6 | Fireplace | 42 | [SZIEBERTH Ádám](https://youtu.be/NVI4XxDltuk) |
+| ??? | Level ???-7 | Turn the Corner | 98 | [SZIEBERTH Ádám](https://youtu.be/NWU5kDyUeFo) |
+| ??? | Level ???-8 | VIP Area | 77 | [SZIEBERTH Ádám](https://youtu.be/cBDD2qzXorQ) |
+| ??? | Level ???-9 | Tense Atmosphere | 65 | [SZIEBERTH Ádám](https://youtu.be/jW_ygHR0HLE) |
+| ??? | Level ???-10 | Tag Team | 56 | [SZIEBERTH Ádám](https://youtu.be/_23yZ5WaP6I) |
+| ??? | Level ???-11 | Security Check | 97 | [SZIEBERTH Ádám](https://youtu.be/Zk3GFQJgrXU) |
+| ??? | Level ???-12 | Ultimate Maze | 60 | [SZIEBERTH Ádám](https://youtu.be/GnwHippYAzE) |
+| ??? | Level ???-Extra 1 | Across | 69 | [SZIEBERTH Ádám](https://youtu.be/0LPAqnxRLg0) |
+| ??? | Level ???-Extra 2 | Castle Disaster | 49 | [SZIEBERTH Ádám](https://youtu.be/6TSclUeGNI0) |
+| ??? | Level ???-Extra 3 | Hazel Den | ? 55 | [SZIEBERTH Ádám](https://youtu.be/2EYiAI0ZJH0) |
+| ??? | Level ???-Extra 4 | Baba has Keke | 228 | [SZIEBERTH Ádám](https://youtu.be/dynIbUYMhj8) |
