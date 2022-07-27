@@ -1,0 +1,212 @@
+U
+U
+U
+R
+R
+D # -BELT IS HOT
+U
+R
+D
+R
+D
+L
+U
+L
+D
+R
+R
+D
+L
+L # +BELT IS PUSH
+U
+U
+U
+L
+L
+L
+L
+U
+U
+L
+U
+L
+D
+R
+D
+L
+U
+U
+L
+D
+D
+D
+D
+R
+D
+L
+U
+L
+D
+L
+L
+U
+U
+U
+U
+U
+R
+D
+D
+D
+D
+R
+D
+L
+U
+L
+D
+L
+D
+R
+U
+U
+U
+U
+U
+R
+R
+R
+R
+U
+R
+D
+D
+D
+D
+L
+D
+R
+R
+U
+R
+D
+D
+D
+D
+R
+D
+L
+L
+L
+L
+D
+L
+U
+R
+R
+R
+R
+U
+U
+U
+R # -BELT IS PUSH; +BELT IS HOT
+L
+L
+U
+U
+U
+U
+U
+R
+R
+D
+D
+R
+D
+D
+D
+D
+U
+U
+U
+L
+L
+L
+L
+L
+U
+L
+D
+D # -BABA IS YOU
+. # +BABA IS YOU
+L # -BABA IS YOU
+. # +BABA IS YOU
+L # -BABA IS YOU
+. # +BABA IS YOU
+L # -BABA IS YOU
+. # +BABA IS YOU
+L # -BABA IS YOU
+. # +BABA IS YOU
+D # -BABA IS YOU
+. # +BABA IS YOU
+D # -BABA IS YOU
+. # +BABA IS YOU
+D # -BABA IS YOU
+. # +BABA IS YOU
+R # -BABA IS YOU
+. # +BABA IS YOU
+R # -BABA IS YOU
+. # +BABA IS YOU
+U # -BABA IS YOU
+.
+. # +BABA IS YOU
+R
+R
+L
+U
+R
+R
+R
+R
+L
+L
+L
+L
+L
+D
+L
+D
+R
+R
+R
+R
+R
+R
+R
+D
+R
+U
+L
+U
+R # -BELT IS HOT
+L
+U
+L
+U
+R
+R # +BABA IS HOT
+U
+R
+R
+R
+R
+R
+D
+R
+R
+U
+R
+R
+D
+R
+wR
