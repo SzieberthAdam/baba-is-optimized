@@ -188,3 +188,4 @@
 | ABC | Level ABC-2 | Ba | 135 | SZIEBERTH Ádám |
 | ABC | Level ABC-3 | Ab | 212 | SZIEBERTH Ádám |
 | ABC | Level ABC-4 | Wall | 105 | SZIEBERTH Ádám |
+| ABC | Level ABC-5 | Stardrop | 227 | SZIEBERTH Ádám |
