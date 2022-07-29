@@ -189,3 +189,4 @@
 | ABC | Level ABC-3 | Ab | 212 | SZIEBERTH Ádám |
 | ABC | Level ABC-4 | Wall | 105 | SZIEBERTH Ádám |
 | ABC | Level ABC-5 | Stardrop | 227 | SZIEBERTH Ádám |
+| ABC | Level ABC-Extra 1 | Meteor Strike | 305 | SZIEBERTH Ádám |
