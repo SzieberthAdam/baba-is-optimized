@@ -39,6 +39,18 @@ L
 L
 L
 D # -MOON IS PUSH
+U
+R
+R
+D
+D
+U
+U
+L
+D
+D
+U
+L
 L
 D
 L
@@ -55,41 +67,19 @@ R
 D
 D
 U
-U
 R
 R
 R
-D
 D
 L
 L
 L
 U
 L
-D
-U
-U
-R
-R
-R
-R
-R
-D
 D # +NOT BABA IS PUSH
-R
-D
-R
-D
-R
 L
-L
-L
-U # -NOT BABA IS PUSH
 D
 R
-R
-R
-D
 R
 R
 R
@@ -100,6 +90,14 @@ R
 R
 R
 U
+R
+R
+R
+R
+R
+R
+D # -NOT BABA IS PUSH
 U
 U
-wU
+R
+wR

@@ -184,7 +184,7 @@
 | ??? | Level ???-Extra 2 | Castle Disaster | 49 | [SZIEBERTH Ádám](https://youtu.be/6TSclUeGNI0) |
 | ??? | Level ???-Extra 3 | Hazel Den | ? 55 | [SZIEBERTH Ádám](https://youtu.be/2EYiAI0ZJH0) |
 | ??? | Level ???-Extra 4 | Baba has Keke | 228 | [SZIEBERTH Ádám](https://youtu.be/dynIbUYMhj8) |
-| ABC | Level ABC-1 | Lunar Gallery | 105 | SZIEBERTH Ádám |
+| ABC | Level ABC-1 | Lunar Gallery | 103 | SZIEBERTH Ádám |
 | ABC | Level ABC-2 | Ba | 135 | SZIEBERTH Ádám |
 | ABC | Level ABC-3 | Ab | 212 | SZIEBERTH Ádám |
 | ABC | Level ABC-4 | Wall | 105 | SZIEBERTH Ádám |
