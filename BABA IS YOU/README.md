@@ -195,3 +195,4 @@
 | Depths | Level Depths-2 | Exercise Hall | 69 | SZIEBERTH Ádám |
 | Depths | Level Depths-3 | Crushers | 16 | [Alayric](https://youtu.be/wZdzuVPPcFI) |
 | Depths | Level Depths-3 | Crushers, LEVEL IS TEXT | 256 | SZIEBERTH Ádám |
+| Depths | Level Depths-4 | Collaborative Effort | 150 | SZIEBERTH Ádám |
