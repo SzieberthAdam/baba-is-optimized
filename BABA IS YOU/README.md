@@ -190,3 +190,4 @@
 | ABC | Level ABC-4 | Wall | 105 | [SZIEBERTH Ádám](https://youtu.be/0HKzA5RoO2g) |
 | ABC | Level ABC-5 | Stardrop | 227 | [SZIEBERTH Ádám](https://youtu.be/Cb2TPtfUxrc) |
 | ABC | Level ABC-Extra 1 | Meteor Strike | 305 | [SZIEBERTH Ádám](https://youtu.be/n7idHCGDrMw) |
+| Depths | Level Depths-1 | Cleaning Service | 268 | SZIEBERTH Ádám |
