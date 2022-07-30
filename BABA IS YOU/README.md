@@ -192,3 +192,4 @@
 | ABC | Level ABC-Extra 1 | Meteor Strike | 305 | [SZIEBERTH Ádám](https://youtu.be/n7idHCGDrMw) |
 | Depths | Level Depths-1 | Cleaning Service | 268 | SZIEBERTH Ádám |
 | Depths | Level Depths-1 | Cleaning Service, LEVEL IS SKULL | 358 | SZIEBERTH Ádám |
+| Depths | Level Depths-2 | Exercise Hall | 69 | SZIEBERTH Ádám |
