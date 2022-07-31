@@ -9,6 +9,12 @@ Levelpacks are separated by subfolders.
 
 [Watch them on YouTube!](https://youtube.com/playlist?list=PL2Qu4Gqa0Mog2g3XkWth-2RD7787K4rj5)
 
+Rules
+-----
+
+* When LEVEL IS YOU and Character IS YOU in the same time, everything must be done to keep a Character on screen.
+
+
 autobaba
 --------
 
