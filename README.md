@@ -5,7 +5,7 @@ This site is dedicated to Baba Is You, which is a puzzle video game created by F
 I keep track of the shortest solutions for the levels of the game.
 Levelpacks are separated by subfolders.
 
-*Contribute your world record solution by making a pull request!*
+*Claim your world record solution by making a pull request!*
 
 [Watch them on YouTube!](https://youtube.com/playlist?list=PL2Qu4Gqa0Mog2g3XkWth-2RD7787K4rj5)
 

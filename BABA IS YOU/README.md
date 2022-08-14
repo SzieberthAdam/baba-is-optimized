@@ -184,6 +184,8 @@
 | ??? | Level ???-Extra 2 | Castle Disaster | 49 | [SZIEBERTH Ádám](https://youtu.be/6TSclUeGNI0) |
 | ??? | Level ???-Extra 3 | Hazel Den | ? 55 | [SZIEBERTH Ádám](https://youtu.be/2EYiAI0ZJH0) |
 | ??? | Level ???-Extra 4 | Baba has Keke | 228 | [SZIEBERTH Ádám](https://youtu.be/dynIbUYMhj8) |
+| ??? | Level ???-Secret (5) | Orb |||
+| ??? | Level ???-Secret (6) | Huh? |||
 | ABC | Level ABC-1 | Lunar Gallery | 103 | [SZIEBERTH Ádám](https://youtu.be/V_7nLQDrSRg) |
 | ABC | Level ABC-2 | Ba | 135 | [SZIEBERTH Ádám](https://youtu.be/TnGObfaCs8Y) |
 | ABC | Level ABC-3 | Ab | 212 | [SZIEBERTH Ádám](https://youtu.be/A-H8TvyzpQU) |
@@ -198,3 +200,7 @@
 | Depths | Level Depths-4 | Collaborative Effort | 87 | [sqzhang](https://youtu.be/uiR2MeYmO3s) |
 | Depths | Level Depths-5 | Living Lands | 12 | SZIEBERTH Ádám |
 | Depths | Level Depths-5 | Living Lands, LEVEL IS ME | 136 | SZIEBERTH Ádám |
+| Depths | Level Depths-Extra 1 | Priority Lane | 73 | SZIEBERTH Ádám |
+| Depths | Level Depths-Extra 2 | Parade |||
+| Depths | Level Depths-Extra 3 | Hidden Relic |||
+| Depths | Level Depths-Extra 4 | Buried Treasure |||
