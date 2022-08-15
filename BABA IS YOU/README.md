@@ -202,5 +202,5 @@
 | Depths | Level Depths-5 | Living Lands, LEVEL IS ME | 136 | SZIEBERTH Ádám |
 | Depths | Level Depths-Extra 1 | Priority Lane | 73 | SZIEBERTH Ádám |
 | Depths | Level Depths-Extra 2 | Parade | 118 | SZIEBERTH Ádám |
-| Depths | Level Depths-Extra 3 | Hidden Relic | 81 | SZIEBERTH Ádám |
+| Depths | Level Depths-Extra 3 | Hidden Relic | 78 | SZIEBERTH Ádám |
 | Depths | Level Depths-Extra 4 | Buried Treasure |||
