@@ -10,9 +10,19 @@ NotYouRelax = 0
 TeleportRelax = 0
 WinRelax = 0
 
-^!r::Reload  ; Ctrl+Alt+R
 
-^b::
+
+^r::  ; Ctrl+R
+
+Sleep 250
+Reload
+Send, {r down}
+Sleep %KeyDownTime%
+Send, {r up}
+
+
+
+^b::  ; Ctrl+B
 
 
 
