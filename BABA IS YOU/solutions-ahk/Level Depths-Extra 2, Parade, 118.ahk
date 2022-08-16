@@ -598,6 +598,13 @@ Sleep %KeyDownTime%
 Send, {Space up}
 Sleep %BabaStepRelax%
 
+Sleep %WinRelax%
+
+Send, {Space down}
+Sleep %KeyDownTime%
+Send, {Space up}
+Sleep %BabaStepRelax%
+
 
 
 return

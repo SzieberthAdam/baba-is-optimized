@@ -192,15 +192,15 @@
 | ABC | Level ABC-4 | Wall | 105 | [SZIEBERTH Ádám](https://youtu.be/0HKzA5RoO2g) |
 | ABC | Level ABC-5 | Stardrop | 227 | [SZIEBERTH Ádám](https://youtu.be/Cb2TPtfUxrc) |
 | ABC | Level ABC-Extra 1 | Meteor Strike | 305 | [SZIEBERTH Ádám](https://youtu.be/n7idHCGDrMw) |
-| Depths | Level Depths-1 | Cleaning Service | 268 | SZIEBERTH Ádám |
-| Depths | Level Depths-1 | Cleaning Service, LEVEL IS SKULL | 358 | SZIEBERTH Ádám |
-| Depths | Level Depths-2 | Exercise Hall | 69 | SZIEBERTH Ádám |
+| Depths | Level Depths-1 | Cleaning Service | 268 | [SZIEBERTH Ádám](https://youtu.be/3gmLYiQk9sM) |
+| Depths | Level Depths-1 | Cleaning Service, LEVEL IS SKULL | 358 | [SZIEBERTH Ádám](https://youtu.be/2lkokTC7rww) |
+| Depths | Level Depths-2 | Exercise Hall | 69 | [SZIEBERTH Ádám](https://youtu.be/7-6EqJroeXA) |
 | Depths | Level Depths-3 | Crushers | 16 | [Alayric](https://youtu.be/wZdzuVPPcFI) |
-| Depths | Level Depths-3 | Crushers, LEVEL IS TEXT | 256 | SZIEBERTH Ádám |
+| Depths | Level Depths-3 | Crushers, LEVEL IS TEXT | 256 | [SZIEBERTH Ádám](https://youtu.be/mUh8wBiuw7A) |
 | Depths | Level Depths-4 | Collaborative Effort | 87 | [sqzhang](https://youtu.be/uiR2MeYmO3s) |
-| Depths | Level Depths-5 | Living Lands | 12 | SZIEBERTH Ádám |
-| Depths | Level Depths-5 | Living Lands, LEVEL IS ME | 136 | SZIEBERTH Ádám |
-| Depths | Level Depths-Extra 1 | Priority Lane | 73 | SZIEBERTH Ádám |
-| Depths | Level Depths-Extra 2 | Parade | 118 | SZIEBERTH Ádám |
-| Depths | Level Depths-Extra 3 | Hidden Relic | 78 | SZIEBERTH Ádám |
-| Depths | Level Depths-Extra 4 | Buried Treasure | 95 | SZIEBERTH Ádám |
+| Depths | Level Depths-5 | Living Lands | 12 | [SZIEBERTH Ádám](https://youtu.be/dRz6ZNT3qx4) |
+| Depths | Level Depths-5 | Living Lands, LEVEL IS ME | 136 | [SZIEBERTH Ádám](https://youtu.be/RPjn8XApPBI) |
+| Depths | Level Depths-Extra 1 | Priority Lane | 73 | [SZIEBERTH Ádám](https://youtu.be/zYSaveKaQTE) |
+| Depths | Level Depths-Extra 2 | Parade | 118 | [SZIEBERTH Ádám](https://youtu.be/snGbEPX_OIc) |
+| Depths | Level Depths-Extra 3 | Hidden Relic | 78 | [SZIEBERTH Ádám](https://youtu.be/T9xTTQYmwxw) |
+| Depths | Level Depths-Extra 4 | Buried Treasure | 95 | [SZIEBERTH Ádám](https://youtu.be/iBtfhZOt1_Y) |

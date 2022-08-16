@@ -115,4 +115,4 @@ R
 R
 D
 .
-# w. # +FLAG IS WIN
+w. # +FLAG IS WIN
