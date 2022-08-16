@@ -184,8 +184,8 @@
 | ??? | Level ???-Extra 2 | Castle Disaster | 49 | [SZIEBERTH Ádám](https://youtu.be/6TSclUeGNI0) |
 | ??? | Level ???-Extra 3 | Hazel Den | ? 55 | [SZIEBERTH Ádám](https://youtu.be/2EYiAI0ZJH0) |
 | ??? | Level ???-Extra 4 | Baba has Keke | 228 | [SZIEBERTH Ádám](https://youtu.be/dynIbUYMhj8) |
-| ??? | Level ???-Secret | Orb | 3 | – |
-| ??? | Level ???-Secret | Huh? | 86 | SZIEBERTH Ádám |
+| ??? | Level ???-Secret | Orb | 3 | (R,R,R) |
+| ??? | Level ???-Secret | Huh? | 86 | [SZIEBERTH Ádám](https://youtu.be/52iaH2DSWUQ) |
 | ABC | Level ABC-1 | Lunar Gallery | 103 | [SZIEBERTH Ádám](https://youtu.be/V_7nLQDrSRg) |
 | ABC | Level ABC-2 | Ba | 135 | [SZIEBERTH Ádám](https://youtu.be/TnGObfaCs8Y) |
 | ABC | Level ABC-3 | Ab | 212 | [SZIEBERTH Ádám](https://youtu.be/A-H8TvyzpQU) |
@@ -204,4 +204,28 @@
 | Depths | Level Depths-Extra 2 | Parade | 118 | [SZIEBERTH Ádám](https://youtu.be/snGbEPX_OIc) |
 | Depths | Level Depths-Extra 3 | Hidden Relic | 78 | [SZIEBERTH Ádám](https://youtu.be/T9xTTQYmwxw) |
 | Depths | Level Depths-Extra 4 | Buried Treasure | 95 | [SZIEBERTH Ádám](https://youtu.be/iBtfhZOt1_Y) |
-| Depths | Level Depths-Extra 5 | Endless Corridor | 57 | SZIEBERTH Ádám |
+| Depths | Level Depths-Extra 5 | Endless Corridor | 57 | [SZIEBERTH Ádám](https://youtu.be/hseSMl8F-lk) |
+| Meta | Level Meta-1 | Hot Potato |||
+| Meta | Level Meta-2 | Adventure |||
+| Meta | Level Meta-3 | Booby Trap |||
+| Meta | Level Meta-4 | Canister |||
+| Meta | Level Meta-5 | Avalanche |||
+| Meta | Level Meta-6 | One-Way Entrance |||
+| Meta | Level Meta-7 | Bramblevine |||
+| Meta | Level Meta-8 | Mutual Feelings |||
+| Meta | Level Meta-9 | Delicate Stars |||
+| Meta | Level Meta-10 | Just No |||
+| Meta | Level Meta-11 | Acrobatics |||
+| Meta | Level Meta-12 | Tangle |||
+| Meta | Level Meta-13 | The Box |||
+| Meta | Level Meta-14 | Queue |||
+| Meta | Level Meta-15 | Breaking and Entering |||
+| Meta | Level Meta-16 | The Return of Scenic Pond |||
+| Meta | Level Meta-Extra 1 | Hidden Path |||
+| Meta | Level Meta-Extra 1 | Triplets |||
+| Meta | Level Meta-Extra 1 | Power Generator |||
+| Meta | Level Meta-Extra 1 | Another Way |||
+| Meta | Level Meta-Secret | A Prize Well Earned |||
+| Meta | Level Meta-Secret | Whoa |||
+| Center || Gallery |||
+| Center || The End |||
