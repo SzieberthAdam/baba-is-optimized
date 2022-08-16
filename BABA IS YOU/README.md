@@ -204,3 +204,4 @@
 | Depths | Level Depths-Extra 2 | Parade | 118 | [SZIEBERTH Ádám](https://youtu.be/snGbEPX_OIc) |
 | Depths | Level Depths-Extra 3 | Hidden Relic | 78 | [SZIEBERTH Ádám](https://youtu.be/T9xTTQYmwxw) |
 | Depths | Level Depths-Extra 4 | Buried Treasure | 95 | [SZIEBERTH Ádám](https://youtu.be/iBtfhZOt1_Y) |
+| Depths | Level Depths-Extra 5 | Endless Corridor | 57 | SZIEBERTH Ádám |
