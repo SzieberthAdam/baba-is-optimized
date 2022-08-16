@@ -3,8 +3,8 @@
 
 ### Number of Levels: 179
 
-| Map Location | Level Code | Level Name | Best | Best By |
-| ------------ | ---------- | ---------- | ----:| ------- |
+| Location | Level Code | Level Name | Best | Best By |
+| -------- | ---------- | ---------- | ----:| ------- |
 | *Map* | Level 0 | Baba Is You |||
 | *Map* | Level 1 | Where Do I Go? | 25 | [Alayric](https://youtu.be/42OOvZxvH6k) |
 | *Map* | Level 2 | Now What Is This? |||
@@ -184,8 +184,8 @@
 | ??? | Level ???-Extra 2 | Castle Disaster | 49 | [SZIEBERTH Ádám](https://youtu.be/6TSclUeGNI0) |
 | ??? | Level ???-Extra 3 | Hazel Den | ? 55 | [SZIEBERTH Ádám](https://youtu.be/2EYiAI0ZJH0) |
 | ??? | Level ???-Extra 4 | Baba has Keke | 228 | [SZIEBERTH Ádám](https://youtu.be/dynIbUYMhj8) |
-| ??? | Level ???-Secret (5) | Orb |||
-| ??? | Level ???-Secret (6) | Huh? |||
+| ??? | Level ???-Secret | Orb | 3 | – |
+| ??? | Level ???-Secret | Huh? | 86 | SZIEBERTH Ádám |
 | ABC | Level ABC-1 | Lunar Gallery | 103 | [SZIEBERTH Ádám](https://youtu.be/V_7nLQDrSRg) |
 | ABC | Level ABC-2 | Ba | 135 | [SZIEBERTH Ádám](https://youtu.be/TnGObfaCs8Y) |
 | ABC | Level ABC-3 | Ab | 212 | [SZIEBERTH Ádám](https://youtu.be/A-H8TvyzpQU) |
