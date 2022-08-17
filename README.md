@@ -69,6 +69,7 @@ This is the shortest solution of *Level 1: Where Do I Go?*, done in 25 time unit
 [Watch the solution by Alayric](https://youtu.be/42OOvZxvH6k).
 You can count the lines one-by-one to get the time units the solution takes which is 25.
 I rather recommend using a text editor which has line numbering to see how many.
+I personally use [Notepad2](https://www.flos-freeware.ch/notepad2.html).
 
 ### Actions
 
@@ -97,6 +98,5 @@ They indicate special events which may require some extra wait time in the video
 Besides, they provide some extra anchors for the solution viewer with the pairing of the text and the video.
 
 * `?`: indicates a criterion, usually a desired outcome of a random event; put before action and describe the criterion in comment
-* `t`: indicates a teleport trip; put after action
 * `w`: indicates a win condition; put before action
 * `y`: indicates that YOU condition has been ended; put after action
