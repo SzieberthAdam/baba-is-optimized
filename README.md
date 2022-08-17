@@ -8,7 +8,9 @@ Levelpacks are separated by subfolders.
 Here, a *World Record* means the shortest solution. 
 Most of these might interest speedrunners, but some solutions may have too many short pushes for speedruns.
 
-*Claim your min steps solution by making a pull request or by contacting me on [Baba Is You Discord](https://discord.com/invite/GGbUUse) (channel-is-full-game-spoilers/min-steps-routing thread)!*
+*Claim your min steps solution by making a pull request or by contacting me on [Baba Is You Discord](https://discord.com/invite/GGbUUse)!*
+
+Community for shortest solutions is in the [channel-is-full-game-spoilers/min-steps-routing thread](https://discord.com/channels/556333985882439680/878875784041865236).
 
 [Watch them on YouTube!](https://youtube.com/playlist?list=PL2Qu4Gqa0Mog2g3XkWth-2RD7787K4rj5)
 
