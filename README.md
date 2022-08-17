@@ -12,6 +12,12 @@ Most of these might interest speedrunners, but some solutions may have too many 
 
 [Watch them on YouTube!](https://youtube.com/playlist?list=PL2Qu4Gqa0Mog2g3XkWth-2RD7787K4rj5)
 
+World Records
+-------------
+
+* [Baba Is You](https://github.com/SzieberthAdam/baba-is-you-solutions/tree/master/BABA%20IS%20YOU)
+
+
 Rules
 -----
 
