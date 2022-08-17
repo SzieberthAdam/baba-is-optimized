@@ -39,9 +39,9 @@ Video Recording
 
 First, set up *Baba Is You* and *OBS Studio* according to the [instructions in the OBS subdirectory](https://github.com/SzieberthAdam/baba-is-you-solutions/tree/master/autobaba/OBS).
 
-1. Follow [Usage](#usage) from point 1 to point 9. Make sure that *Baba Is You* window was not resized and has its original size (game canvas: 854x480).
-2. Once finished, run `autobaba-obs.bat` which creates your final `autobaba.ahk`. This AutoHotkey file is optimized for OBS recording.
-3. Run or refresh the `autobaba.ahk` script.
+1. Start *Baba Is You* in windowed mode (fullscreen off). Make sure that *Baba Is You* window was not resized and has its original size (game canvas: 854x480).
+2. Run `autobaba-obs.bat` which updates `autobaba.ahk`. This AutoHotkey file is optimized for OBS recording.
+3. Start AutoHotkey with the `autobaba.ahk` script. If AutoHotkey is already running, you have to manually refresh the script by right clicking on its icon in the tray.
 4. Start OBS Studio. You should see the *Baba In You* window in the top left section of the OBS canvas.
 5. In *Baba In You*, in the map, navigate to the location where `Enter` key would start the level.
 6. Start the recording by pressing `Ctrl+B` in the game. It should control both *OBS Studio* and *Baba Is You* in the same time. Start and stop of the recording should also be automated.
