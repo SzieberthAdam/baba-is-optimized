@@ -1,19 +1,19 @@
-﻿Baba Is You Solutions – *World Records*
+﻿Baba Is You Solutions – *Minimum Steps*
 =======================================
 
-This site is dedicated to Baba Is You, which is a puzzle video game created by Finnish indie developer Arvi Teikari.
+This site is dedicated to Baba Is You, which is a puzzle video game created by Finnish indie developer Arvi Teikari aka. Hempuli.
 I keep track of the shortest solutions for the levels of the game.
 Levelpacks are separated by subfolders.
 
 Here, a *World Record* means the shortest solution. 
 Most of these might interest speedrunners, but some solutions may have too many short pushes for speedruns.
 
-*Claim your world record solution by making a pull request!*
+*Claim your min steps solution by making a pull request or by contacting me on [Baba Is You Discord](https://discord.com/invite/GGbUUse) (channel-is-full-game-spoilers/min-steps-routing thread)!*
 
 [Watch them on YouTube!](https://youtube.com/playlist?list=PL2Qu4Gqa0Mog2g3XkWth-2RD7787K4rj5)
 
-World Records
--------------
+Minimum Steps Solutions
+-----------------------
 
 * [Baba Is You](https://github.com/SzieberthAdam/baba-is-you-solutions/tree/master/BABA%20IS%20YOU)
 
@@ -28,6 +28,7 @@ autobaba
 --------
 
 Autobaba is not a levelpack but a toolbar to note, test, and publish solutions.
+I use these tools for my minimum steps routing workflow.
 
 
 Solution Format
