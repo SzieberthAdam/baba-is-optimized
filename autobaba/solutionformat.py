@@ -23,7 +23,17 @@ def sectionize1(solution1, compress=True, section_length=4):
 
 def decompress1(solution1):
     """converts a oneliner solution to its decompressed format; adds leftout 1s; without dashes"""
-    return "".join(f'{t[0]}{t[1]}' for t in split1_2(s1))
+    return "".join(f'{t[0]}{t[1]}' for t in split1_2(solution1))
+
+
+def ensure1_v1(solution1):
+    """ensures version 1 oneliner solution format; with explicit 1s and without dashes"""
+    return decompress1(solution1)
+
+
+def ensure1_v2(solution1):
+    """ensures version 2 oneliner solution format; without 1s and with dashes"""
+    return sectionize1(solution1)
 
 
 def split1_1(solution1):
