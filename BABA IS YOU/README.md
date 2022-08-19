@@ -1,8 +1,6 @@
 ﻿LEVELPACK: *BABA IS YOU*
 ========================
 
-### Number of Levels: 227
-
 | Location | Level Code | Level Name | Steps | Optimized By |
 | -------- | ---------- | ---------- | -----:| ------------ |
 | Map | Level 0 | Baba Is You | 8 | – |
