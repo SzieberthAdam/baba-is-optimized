@@ -1,16 +1,16 @@
 U
-U # -BELT IS SHIFT
+U
 D
 L
 L
 L
 L
-L
-L
 U
 U
 U
 U
 L
 L
-wL
+L
+L
+L

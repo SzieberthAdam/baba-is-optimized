@@ -6,10 +6,14 @@ U
 U
 U
 U
+R
+D
+D
+U
+U
 U
 R
-R
-D # -KEKE IS MOVE
+D
 D
 U
 U
@@ -26,34 +30,30 @@ D
 D
 D
 U
-U
+L
 L
 L
 D
-D # +KEKE IS PUSH
-L
-L
 D
 D
 D
 L
 D
 R
-R
 U
 U
 U
 U
 R
-D # -KEKE IS PUSH
+D
 U
 U
 R
 D
 D
 R
-D # +KEKE IS MOVE
-L # -KEKE IS MOVE
+D
+L
 U
 L
 L
@@ -66,4 +66,4 @@ R
 R
 R
 R
-wR # +FLAG IS WIN
+R

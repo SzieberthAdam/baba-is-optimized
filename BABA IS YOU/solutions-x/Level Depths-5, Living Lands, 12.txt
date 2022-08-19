@@ -9,4 +9,4 @@ D
 D
 R
 R
-wD # +FLAG IS WIN
+D

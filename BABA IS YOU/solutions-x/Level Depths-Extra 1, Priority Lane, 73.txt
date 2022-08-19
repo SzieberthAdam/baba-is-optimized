@@ -5,7 +5,7 @@ L
 L
 L
 L
-D # -BELT IS SHIFT
+D
 U
 R
 R
@@ -40,34 +40,34 @@ R
 D
 D
 D
-R # -BELT IS PUSH
+R
 U
 R
 U
-L
-D
-L
-U
-R
-R
-U
-L
-L
-L
-L
 L
 D
 L
 U
 R
+R
 U
-L # +BELT IS SHIFT AND SHIFT
+L
+L
+L
+L
+L
+D
+L
+U
+R
+U
+L
 D
 D
 D
 D
-D # +BOX IS KEKE
+D
 R
 R
 R
-wR
+R
