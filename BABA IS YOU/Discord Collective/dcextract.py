@@ -176,7 +176,7 @@ def save():
     s_b = "\n\n".join(b)
     for t in btrans:
         s_b = s_b.replace(t[0], t[1])
-    with pathlib.Path("out-walktrough.txt").open("w", encoding="utf8") as f:
+    with pathlib.Path("out-walkthrough.txt").open("w", encoding="utf8") as f:
         f.write(s_b)
     s_c = "\n".join([t[1] for t in sorted(c)])
     with pathlib.Path("out-mdtable.txt").open("w", encoding="utf8") as f:
