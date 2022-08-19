@@ -37,7 +37,7 @@ def split1_2(solution1):
 
 
 def steps1(solution1):
-    """calculates the nuber of steps of a oneliner solution"""
+    """calculates the number of steps of a oneliner solution"""
     return sum(t[1] for t in split1_2(solution1))
 
 
