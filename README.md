@@ -1,5 +1,5 @@
-﻿Baba Is You Solutions – *Minimum Steps*
-=======================================
+﻿Baba Is You Optimized
+=====================
 
 This site is dedicated to Baba Is You, which is a puzzle video game created by Finnish indie developer Arvi Teikari aka. Hempuli.
 I keep track of the shortest solutions for the levels of the game.

@@ -3,236 +3,250 @@
 
 ### Number of Levels: 227
 
-| Location | Level Code | Level Name | Best | Best By |
-| -------- | ---------- | ---------- | ----:| ------- |
-| *Map* | Level 0 | Baba Is You |||
-| *Map* | Level 1 | Where Do I Go? | 25 | [Alayric](https://youtu.be/42OOvZxvH6k) |
-| *Map* | Level 2 | Now What Is This? |||
-| *Map* | Level 3 | Out of Reach |||
-| *Map* | Level 4 | Still Out of Reach |||
-| *Map* | Level 5 | Volcano |||
-| *Map* | Level 6 | Off Limits |||
-| *Map* | Level 7 | Grass Yard |||
-| *Map* | Level 8 | Slideshow |||
-| *Map* | Level 9 | Fragile Existence |||
-| *Map* | Level 10 | Hostile Environment |||
-| *Map* | Level Finale | A Way Out? |||
-| *Map* | Level ? | ? |||
-| 1. The Lake | Level Lake-1 | Icy Waters |||
-| 1. The Lake | Level Lake-2 | Turns |||
-| 1. The Lake | Level Lake-3 | Affection |||
-| 1. The Lake | Level Lake-4 | Pillar Yard |||
-| 1. The Lake | Level Lake-5 | Brick Wall |||
-| 1. The Lake | Level Lake-6 | Lock |||
-| 1. The Lake | Level Lake-7 | Novice Locksmith |||
-| 1. The Lake | Level Lake-8 | Locked In |||
-| 1. The Lake | Level Lake-9 | Changeless |||
-| 1. The Lake | Level Lake-10 | Two Doors |||
-| 1. The Lake | Level Lake-11 | Jelly Throne |||
-| 1. The Lake | Level Lake-12 | Crab Storage |||
-| 1. The Lake | Level Lake-13 | Burglary |||
-| 1. The Lake | Level Lake-Extra 1 | Submerged Ruins |||
-| 1. The Lake | Level Lake-Extra 2 | Sunken Temple |||
-| 2. Solitary Island | Level Island-0 | Poem |||
-| 2. Solitary Island | Level Island-1 | Float |||
-| 2. Solitary Island | Level Island-2 | Warm River |||
-| 2. Solitary Island | Level Island-3 | Bridge Building |||
-| 2. Solitary Island | Level Island-4 | Bridge Building? |||
-| 2. Solitary Island | Level Island-5 | Victory Spring |||
-| 2. Solitary Island | Level Island-6 | Assembly Team |||
-| 2. Solitary Island | Level Island-7 | Catch the Thief! |||
-| 2. Solitary Island | Level Island-8 | Tiny Pond |||
-| 2. Solitary Island | Level Island-9 | Research Facility |||
-| 2. Solitary Island | Level Island-10 | Wireless Connection |||
-| 2. Solitary Island | Level Island-11 | Prison |||
-| 2. Solitary Island | Level Island-Extra 1 | Boiling River |||
-| 2. Solitary Island | Level Island-Extra 2 | ...Bridges? |||
-| 2. Solitary Island | Level Island-Extra 3 | Tiny Isle |||
-| 2. Solitary Island | Level Island-Extra 4 | Dim Signal |||
-| 2. Solitary Island | Level Island-Extra 5 | Dungeon |||
-| 2. Solitary Island | Level Island-Extra 6 | Evaporating River |||
-| 3. Temple Ruins | Level Ruins-1 | Fragility |||
-| 3. Temple Ruins | Level Ruins-2 | Tunnel Vision |||
-| 3. Temple Ruins | Level Ruins-3 | A Present for You |||
-| 3. Temple Ruins | Level Ruins-4 | Unreachable Shores |||
-| 3. Temple Ruins | Level Ruins-5 | But Where's the Key |||
-| 3. Temple Ruins | Level Ruins-6 | Love is Out There |||
-| 3. Temple Ruins | Level Ruins-7 | Perilous Gang |||
-| 3. Temple Ruins | Level Ruins-8 | Double Moat |||
-| 3. Temple Ruins | Level Ruins-9 | Walls of Gold |||
-| 3. Temple Ruins | Level Ruins-Extra 1 | Further Fields |||
-| 4. Forest of Fall | Level Fall-1 | Hop |||
-| 4. Forest of Fall | Level Fall-2 | Grand Stream |||
-| 4. Forest of Fall | Level Fall-3 | Rocky Road |||
-| 4. Forest of Fall | Level Fall-4 | Telephone |||
-| 4. Forest of Fall | Level Fall-5 | Haunt |||
-| 4. Forest of Fall | Level Fall-6 | Create Square |||
-| 4. Forest of Fall | Level Fall-7 | Ghost Friend |||
-| 4. Forest of Fall | Level Fall-8 | Ghost Guard |||
-| 4. Forest of Fall | Level Fall-9 | Leaf Chamber |||
-| 4. Forest of Fall | Level Fall-10 | Not There |||
-| 4. Forest of Fall | Level Fall-11 | Catch |||
-| 4. Forest of Fall | Level Fall-12 | Dead End |||
-| 4. Forest of Fall | Level Fall-A | Literacy |||
-| 4. Forest of Fall | Level Fall-B | Broken Playground |||
-| 4. Forest of Fall | Level Fall-C | Fetching |||
-| 4. Forest of Fall | Level Fall-D | Scenic Pond |||
-| 4. Forest of Fall | Level Fall-E | Skeletal Door |||
-| 4. Forest of Fall | Level Fall-Extra 1 | Jump |||
-| 4. Forest of Fall | Level Fall-Extra 2 | Even Less There |||
-| 4. Forest of Fall | Level Fall-Extra 3 | Deep Pool |||
-| 5. Deep Forest | Level Forest-1 | Renovating |||
-| 5. Deep Forest | Level Forest-2 | Toolshed |||
-| 5. Deep Forest | Level Forest-3 | Keep Out! |||
-| 5. Deep Forest | Level Forest-4 | Baba Doesn't Respond |||
-| 5. Deep Forest | Level Forest-5 | Patrol |||
-| 5. Deep Forest | Level Forest-6 | Canyon |||
-| 5. Deep Forest | Level Forest-7 | Concrete Goals |||
-| 5. Deep Forest | Level Forest-8 | Victory In The Open |||
-| 5. Deep Forest | Level Forest-9 | Moving Floor |||
-| 5. Deep Forest | Level Forest-10 | Lovely House |||
-| 5. Deep Forest | Level Forest-11 | Supermarket |||
-| 5. Deep Forest | Level Forest-12 | Lock the Door |||
-| 5. Deep Forest | Level Forest-13 | Factory |||
-| 5. Deep Forest | Level Forest-14 | Tiny Pasture |||
-| 5. Deep Forest | Level Forest-A | Nearly |||
-| 5. Deep Forest | Level Forest-B | Not Quite |||
-| 5. Deep Forest | Level Forest-C | Passing Through |||
-| 5. Deep Forest | Level Forest-D | Salvage |||
-| 5. Deep Forest | Level Forest-E | Insulation |||
-| 5. Deep Forest | Level Forest-Extra 1 | Crumbling Floor |||
-| 5. Deep Forest | Level Forest-Extra 2 | Skull House |||
-| 6. Rocket Trip | Level Space-1 | Empty |||
-| 6. Rocket Trip | Level Space-2 | Lonely Flag |||
-| 6. Rocket Trip | Level Space-3 | Babas Are You |||
-| 6. Rocket Trip | Level Space-4 | Please Hold My Key |||
-| 6. Rocket Trip | Level Space-5 | Horror Story |||
-| 6. Rocket Trip | Level Space-6 | Aiming High |||
-| 6. Rocket Trip | Level Space-7 | Trio |||
-| 6. Rocket Trip | Level Space-8 | Bottleneck |||
-| 6. Rocket Trip | Level Space-9 | Platformer |||
-| 6. Rocket Trip | Level Space-10 | The Pit |||
-| 6. Rocket Trip | Level Space-11 | Heavy Words |||
-| 6. Rocket Trip | Level Space-12 | Guardians |||
-| 6. Rocket Trip | Level Space-13 | Sky Hold |||
-| 6. Rocket Trip | Level Space-Extra 1 | Existential Crisis |||
-| 6. Rocket Trip | Level Space-Extra 2 | Heavy Cloud |||
-| 7. Flower Garden | Level Garden-1 | Condition |||
-| 7. Flower Garden | Level Garden-2 | Thicket |||
-| 7. Flower Garden | Level Garden-3 | Sorting Facility |||
-| 7. Flower Garden | Level Garden-4 | Relaxing Spot |||
-| 7. Flower Garden | Level Garden-5 | Maritime Adventures |||
-| 7. Flower Garden | Level Garden-6 | Ruined Orchard |||
-| 7. Flower Garden | Level Garden-7 | Blockade |||
-| 7. Flower Garden | Level Garden-8 | Jaywalkers United |||
-| 7. Flower Garden | Level Garden-9 | Overgrowth |||
-| 7. Flower Garden | Level Garden-10 | Adventurers |||
-| 7. Flower Garden | Level Garden-Extra 1 | Secret Garden |||
-| 7. Flower Garden | Level Garden-Extra 2 | Out At Sea |||
-| 8. Chasm | Level Chasm-A | Rocky Prison |||
-| 8. Chasm | Level Chasm-B | Siege |||
-| 8. Chasm | Level Chasm-C | Elusive Condition |||
-| 8. Chasm | Level Chasm-D | Treasury |||
-| 8. Chasm | Level Chasm-E | Looking for a Heart |||
-| 8. Chasm | Level Chasm-F | Lava Flood |||
-| 8. Chasm | Level Chasm-G | Entropy |||
-| 8. Chasm | Level Chasm-H | Floodgates |||
-| 8. Chasm | Level Chasm-I | Lonely Sight |||
-| 8. Chasm | Level Chasm-Extra 1 | Metacognition |||
-| 8. Chasm | Level Chasm-Extra 2 | Multitool |||
-| 8. Chasm | Level Chasm-Extra 3 | Broken |||
-| 8. Chasm | Level Chasm-Extra 4 | Alley |||
-| 8. Chasm | Level Chasm-Extra 5 | Keke and the Star |||
-| 8. Chasm | Level Chasm-Extra 6 | Visiting Baba |||
-| 8. Chasm | Level Chasm-Extra 7 | Automated Doors |||
-| 9. Volcanic Cavern | Level Cavern-1 | Tour |||
-| 9. Volcanic Cavern | Level Cavern-2 | Peril at Every Turn |||
-| 9. Volcanic Cavern | Level Cavern-3 | Pillarwork |||
-| 9. Volcanic Cavern | Level Cavern-4 | Mouse Hole |||
-| 9. Volcanic Cavern | Level Cavern-5 | Torn Apart |||
-| 9. Volcanic Cavern | Level Cavern-6 | Vital Ingredients |||
-| 9. Volcanic Cavern | Level Cavern-7 | Backstage | 141 | [SZIEBERTH Ádám](https://youtu.be/f6VIOGbyiwk) |
-| 9. Volcanic Cavern | Level Cavern-8 | The Heist | 181 | [SZIEBERTH Ádám](https://youtu.be/Y0V6CSJt2VQ) |
-| 9. Volcanic Cavern | Level Cavern-9 | Join the Crew | 69 | [SZIEBERTH Ádám](https://youtu.be/6vtxS-FEouE) |
-| 9. Volcanic Cavern | Level Cavern-10 | Automaton | 100 | [SZIEBERTH Ádám](https://youtu.be/ghM5HeXaw60) |
-| 9. Volcanic Cavern | Level Cavern-11 | Trick Door | 114 | [SZIEBERTH Ádám](https://youtu.be/ex8zCu6xq8o) |
-| 9. Volcanic Cavern | Level Cavern-12 | Trapped | 69 | [SZIEBERTH Ádám](https://youtu.be/gG0x5fTqnRM) |
-| 9. Volcanic Cavern | Level Cavern-13 | Tunnel | 195 | [SZIEBERTH Ádám](https://youtu.be/Z-p8z3IvhQ4) |
-| 9. Volcanic Cavern | Level Cavern-14 | Broken Expectations | 162 | [SZIEBERTH Ádám](https://youtu.be/J9yD1L0W1b8) |
-| 9. Volcanic Cavern | Level Cavern-Extra 1 | Coronation | 49 | [SZIEBERTH Ádám](https://youtu.be/tDY0dq37bSU) |
-| 10. Mountaintop | Level Mountain-1 | Shuffle | 66 | [SZIEBERTH Ádám](https://youtu.be/BNjYUGPFbW0) |
-| 10. Mountaintop | Level Mountain-2 | Love at First Sight | 110 | [SZIEBERTH Ádám](https://youtu.be/UG8LTYe6kXc) |
-| 10. Mountaintop | Level Mountain-3 | Solitude | 159 | [SZIEBERTH Ádám](https://youtu.be/mC8UwXQy38s) |
-| 10. Mountaintop | Level Mountain-4 | What is Baba? | 63 | [SZIEBERTH Ádám](https://youtu.be/mGJcfGSDfqY) |
-| 10. Mountaintop | Level Mountain-5 | Connector | 115 | [SZIEBERTH Ádám](https://youtu.be/gLomWpQGc9M) |
-| 10. Mountaintop | Level Mountain-6 | Floaty Platforms | 93 | [SZIEBERTH Ádám](https://youtu.be/AkoTeFZR21U) |
-| 10. Mountaintop | Level Mountain-7 | Seeking Acceptance | 186 | [SZIEBERTH Ádám](https://youtu.be/0Xr8qV0bwNk) |
-| 10. Mountaintop | Level Mountain-8 | Tectonic Movements | 149 | [SZIEBERTH Ádám](https://youtu.be/CfX71lzhnAc) |
-| 10. Mountaintop | Level Mountain-Extra 1 | The Floatiest Platforms | 75 | [SZIEBERTH Ádám](https://youtu.be/_o2VFN3cDh4) |
-| ??? | Level ???-1 | Glitch | 28 | [SZIEBERTH Ádám](https://youtu.be/SGyOoHYGLQ8) |
-| ??? | Level ???-2 | Error | 109 | [SZIEBERTH Ádám](https://youtu.be/5LB0Ww9kAZQ) |
-| ??? | Level ???-3 | Whoops | 112 | [SZIEBERTH Ádám](https://youtu.be/cKyZ5Opx7ds) |
-| ??? | Level ???-4 | Mean Fence | 38 | [SZIEBERTH Ádám](https://youtu.be/ZWFzuYhAY2U) |
-| ??? | Level ???-5 | Scale | 58 | [SZIEBERTH Ádám](https://youtu.be/yi3a7sxrWlA) |
-| ??? | Level ???-6 | Fireplace | 42 | [SZIEBERTH Ádám](https://youtu.be/sm54r0vbOSQ) |
-| ??? | Level ???-7 | Turn the Corner | 98 | [SZIEBERTH Ádám](https://youtu.be/Pyl-U7P5Vhw) |
-| ??? | Level ???-8 | VIP Area | 77 | [SZIEBERTH Ádám](https://youtu.be/M7eURvSuGK8) |
-| ??? | Level ???-9 | Tense Atmosphere | 65 | [SZIEBERTH Ádám](https://youtu.be/gLzgoET7CMY) |
-| ??? | Level ???-10 | Tag Team | 56 | [SZIEBERTH Ádám](https://youtu.be/YiwexEszTEQ) |
-| ??? | Level ???-11 | Security Check | 97 | [SZIEBERTH Ádám](https://youtu.be/8nZ-KdDnax8) |
-| ??? | Level ???-12 | Ultimate Maze | 60 | [SZIEBERTH Ádám](https://youtu.be/AAw4QRO_Ob0) |
-| ??? | Level ???-12 | Ultimate Maze, LEVEL IS TEXT |||
-| ??? | Level ???-A | Do It Yourself |||
-| ??? | Level ???-B | Write the Rules |||
-| ??? | Level ???-C | Rewrite the Rules |||
-| ??? | Level ???-D | Written Instructions |||
-| ??? | Level ???-Extra 1 | Across | 69 | [SZIEBERTH Ádám](https://youtu.be/0LPAqnxRLg0) |
-| ??? | Level ???-Extra 2 | Castle Disaster | 49 | [SZIEBERTH Ádám](https://youtu.be/6TSclUeGNI0) |
-| ??? | Level ???-Extra 3 | Hazel Den | ? 55 | [SZIEBERTH Ádám](https://youtu.be/2EYiAI0ZJH0) |
-| ??? | Level ???-Extra 4 | Baba has Keke | 228 | [SZIEBERTH Ádám](https://youtu.be/dynIbUYMhj8) |
-| ??? | Level ???-Secret | Orb | 3 | (R,R,R) |
-| ??? | Level ???-Secret | Huh? | 86 | [SZIEBERTH Ádám](https://youtu.be/52iaH2DSWUQ) |
-| ??? | Level ???-Secret | Getting Together |||
-| ABC | Level ABC-1 | Lunar Gallery | 103 | [SZIEBERTH Ádám](https://youtu.be/V_7nLQDrSRg) |
-| ABC | Level ABC-2 | Ba | 135 | [SZIEBERTH Ádám](https://youtu.be/TnGObfaCs8Y) |
-| ABC | Level ABC-3 | Ab | 212 | [SZIEBERTH Ádám](https://youtu.be/A-H8TvyzpQU) |
-| ABC | Level ABC-4 | Wall | 105 | [SZIEBERTH Ádám](https://youtu.be/0HKzA5RoO2g) |
-| ABC | Level ABC-5 | Stardrop | 227 | [SZIEBERTH Ádám](https://youtu.be/Cb2TPtfUxrc) |
-| ABC | Level ABC-Extra 1 | Meteor Strike | 305 | [SZIEBERTH Ádám](https://youtu.be/n7idHCGDrMw) |
-| Depths | Level Depths-1 | Cleaning Service | 268 | [SZIEBERTH Ádám](https://youtu.be/3gmLYiQk9sM) |
-| Depths | Level Depths-1 | Cleaning Service, LEVEL IS SKULL | 358 | [SZIEBERTH Ádám](https://youtu.be/2lkokTC7rww) |
-| Depths | Level Depths-2 | Exercise Hall | 69 | [SZIEBERTH Ádám](https://youtu.be/7-6EqJroeXA) |
-| Depths | Level Depths-3 | Crushers | 16 | [Alayric](https://youtu.be/wZdzuVPPcFI) |
-| Depths | Level Depths-3 | Crushers, LEVEL IS TEXT | 256 | [SZIEBERTH Ádám](https://youtu.be/mUh8wBiuw7A) |
-| Depths | Level Depths-4 | Collaborative Effort | 87 | [sqzhang](https://youtu.be/uiR2MeYmO3s) |
-| Depths | Level Depths-5 | Living Lands | 12 | [SZIEBERTH Ádám](https://youtu.be/dRz6ZNT3qx4) |
-| Depths | Level Depths-5 | Living Lands, LEVEL IS ME | 136 | [SZIEBERTH Ádám](https://youtu.be/RPjn8XApPBI) |
-| Depths | Level Depths-Extra 1 | Priority Lane | 73 | [SZIEBERTH Ádám](https://youtu.be/zYSaveKaQTE) |
-| Depths | Level Depths-Extra 2 | Parade | 118 | [SZIEBERTH Ádám](https://youtu.be/snGbEPX_OIc) |
-| Depths | Level Depths-Extra 3 | Hidden Relic | 78 | [SZIEBERTH Ádám](https://youtu.be/T9xTTQYmwxw) |
-| Depths | Level Depths-Extra 4 | Buried Treasure | 95 | [SZIEBERTH Ádám](https://youtu.be/iBtfhZOt1_Y) |
-| Depths | Level Depths-Extra 5 | Endless Corridor | 57 | [SZIEBERTH Ádám](https://youtu.be/hseSMl8F-lk) |
-| Meta | Level Meta-1 | Hot Potato |||
-| Meta | Level Meta-2 | Adventure |||
-| Meta | Level Meta-3 | Booby Trap |||
-| Meta | Level Meta-4 | Canister |||
-| Meta | Level Meta-5 | Avalanche |||
-| Meta | Level Meta-6 | One-Way Entrance |||
-| Meta | Level Meta-7 | Bramblevine |||
-| Meta | Level Meta-8 | Mutual Feelings |||
-| Meta | Level Meta-9 | Delicate Stars |||
-| Meta | Level Meta-10 | Just No |||
-| Meta | Level Meta-11 | Acrobatics |||
-| Meta | Level Meta-12 | Tangle |||
-| Meta | Level Meta-13 | The Box |||
-| Meta | Level Meta-14 | Queue |||
-| Meta | Level Meta-15 | Breaking and Entering |||
-| Meta | Level Meta-16 | The Return of Scenic Pond |||
-| Meta | Level Meta-Extra 1 | Hidden Path |||
-| Meta | Level Meta-Extra 1 | Triplets |||
-| Meta | Level Meta-Extra 1 | Power Generator |||
-| Meta | Level Meta-Extra 1 | Another Way |||
-| Meta | Level Meta-Secret | A Prize Well Earned |||
-| Meta | Level Meta-Secret | Whoa |||
-| Center || Gallery |||
-| Center || The End |||
+| Location | Level Code | Level Name | Steps | Optimized By |
+| -------- | ---------- | ---------- | -----:| ------------ |
+| Map | Level 0 | Baba Is You | 8 | R8 |
+| Map | Level 1 | Where Do I Go? | 19 | Discord Collective |
+| Map | Level 2 | Now What Is This? | 22 | Discord Collective |
+| Map | Level 3 | Out of Reach | | Discord Collective |
+| Map | Level 4 | Still Out of Reach | 31 | Discord Collective |
+| Map | Level 5 | Volcano | 43 | Discord Collective |
+| Map | Level 6 | Off Limits | 15 | Discord Collective |
+| Map | Level 7 | Grass Yard | | Discord Collective |
+| Map | Level 8 | Slideshow | | Discord Collective |
+| Map | Level 9 | Fragile Existence | | Discord Collective |
+| Map | Level 9 | Fragile Existence, LEVEL IS BABA | | Discord Collective |
+| Map | Level 10 | Hostile Environment | | Discord Collective |
+| Map | Level 10 | Hostile Environment, LEVEL IS FLAG | | Discord Collective |
+| Map | Level Finale | A Way Out? | | Discord Collective |
+| Map | Level Finale | A Way Out?, FLAG IS END | | Discord Collective |
+| Map | Level ? | ? | | Discord Collective |
+| 1. The Lake | Level Lake-1 | Icy Waters | 32 | Discord Collective |
+| 1. The Lake | Level Lake-2 | Turns | 55 | Discord Collective |
+| 1. The Lake | Level Lake-3 | Affection | | Discord Collective |
+| 1. The Lake | Level Lake-4 | Pillar Yard | | Discord Collective |
+| 1. The Lake | Level Lake-5 | Brick Wall | | Discord Collective |
+| 1. The Lake | Level Lake-6 | Lock | | Discord Collective |
+| 1. The Lake | Level Lake-7 | Novice Locksmith | | Discord Collective |
+| 1. The Lake | Level Lake-8 | Locked In | | Discord Collective |
+| 1. The Lake | Level Lake-9 | Changeless | | Discord Collective |
+| 1. The Lake | Level Lake-10 | Two Doors | | Discord Collective |
+| 1. The Lake | Level Lake-11 | Jelly Throne | | Discord Collective |
+| 1. The Lake | Level Lake-12 | Crab Storage | | Discord Collective |
+| 1. The Lake | Level Lake-13 | Burglary | | Discord Collective |
+| 1. The Lake | Level Lake-Extra 1 | Submerged Ruins | | Discord Collective |
+| 1. The Lake | Level Lake-Extra 2 | Sunken Temple | | Discord Collective |
+| 2. Solitary Island | Level Island-0 | Poem | | Discord Collective |
+| 2. Solitary Island | Level Island-1 | Float | | Discord Collective |
+| 2. Solitary Island | Level Island-2 | Warm River | | Discord Collective |
+| 2. Solitary Island | Level Island-3 | Bridge Building | | Discord Collective |
+| 2. Solitary Island | Level Island-4 | Bridge Building? | | Discord Collective |
+| 2. Solitary Island | Level Island-5 | Victory Spring | | Discord Collective |
+| 2. Solitary Island | Level Island-6 | Assembly Team | | Discord Collective |
+| 2. Solitary Island | Level Island-7 | Catch the Thief! | | Discord Collective |
+| 2. Solitary Island | Level Island-8 | Tiny Pond | | Discord Collective |
+| 2. Solitary Island | Level Island-9 | Research Facility | | Discord Collective |
+| 2. Solitary Island | Level Island-10 | Wireless Connection | | Discord Collective |
+| 2. Solitary Island | Level Island-11 | Prison | | Discord Collective |
+| 2. Solitary Island | Level Island-Extra 1 | Boiling River | | Discord Collective |
+| 2. Solitary Island | Level Island-Extra 2 | ...Bridges? | | Discord Collective |
+| 2. Solitary Island | Level Island-Extra 3 | Tiny Isle | | Discord Collective |
+| 2. Solitary Island | Level Island-Extra 4 | Dim Signal | | Discord Collective |
+| 2. Solitary Island | Level Island-Extra 5 | Dungeon | | Discord Collective |
+| 2. Solitary Island | Level Island-Extra 6 | Evaporating River | | Discord Collective |
+| 3. Temple Ruins | Level Ruins-1 | Fragility | | Discord Collective |
+| 3. Temple Ruins | Level Ruins-2 | Tunnel Vision | | Discord Collective |
+| 3. Temple Ruins | Level Ruins-3 | A Present for You | | Discord Collective |
+| 3. Temple Ruins | Level Ruins-4 | Unreachable Shores | | Discord Collective |
+| 3. Temple Ruins | Level Ruins-5 | But Where's the Key | | Discord Collective |
+| 3. Temple Ruins | Level Ruins-6 | Love is Out There | | Discord Collective |
+| 3. Temple Ruins | Level Ruins-7 | Perilous Gang | | Discord Collective |
+| 3. Temple Ruins | Level Ruins-8 | Double Moat | | Discord Collective |
+| 3. Temple Ruins | Level Ruins-9 | Walls of Gold | | Discord Collective |
+| 3. Temple Ruins | Level Ruins-Extra 1 | Further Fields | | Discord Collective |
+| 4. Forest of Fall | Level Fall-1 | Hop | | Discord Collective |
+| 4. Forest of Fall | Level Fall-2 | Grand Stream | | Discord Collective |
+| 4. Forest of Fall | Level Fall-3 | Rocky Road | | Discord Collective |
+| 4. Forest of Fall | Level Fall-4 | Telephone | | Discord Collective |
+| 4. Forest of Fall | Level Fall-5 | Haunt | | Discord Collective |
+| 4. Forest of Fall | Level Fall-6 | Crate Square | | Discord Collective |
+| 4. Forest of Fall | Level Fall-7 | Ghost Friend | | Discord Collective |
+| 4. Forest of Fall | Level Fall-8 | Ghost Guard | | Discord Collective |
+| 4. Forest of Fall | Level Fall-9 | Leaf Chamber | | Discord Collective |
+| 4. Forest of Fall | Level Fall-10 | Not There | | Discord Collective |
+| 4. Forest of Fall | Level Fall-11 | Catch | | Discord Collective |
+| 4. Forest of Fall | Level Fall-12 | Dead End | | Discord Collective |
+| 4. Forest of Fall | Level Fall-A | Literacy | | Discord Collective |
+| 4. Forest of Fall | Level Fall-B | Broken Playground | | Discord Collective |
+| 4. Forest of Fall | Level Fall-C | Fetching | | Discord Collective |
+| 4. Forest of Fall | Level Fall-D | Scenic Pond | | Discord Collective |
+| 4. Forest of Fall | Level Fall-E | Skeletal Door | | Discord Collective |
+| 4. Forest of Fall | Level Fall-Extra 1 | Jump | | Discord Collective |
+| 4. Forest of Fall | Level Fall-Extra 2 | Even Less There | | Discord Collective |
+| 4. Forest of Fall | Level Fall-Extra 3 | Deep Pool | | Discord Collective |
+| 5. Deep Forest | Level Forest-1 | Renovating | | Discord Collective |
+| 5. Deep Forest | Level Forest-2 | Toolshed | | Discord Collective |
+| 5. Deep Forest | Level Forest-3 | Keep Out! | | Discord Collective |
+| 5. Deep Forest | Level Forest-4 | Baba Doesn't Respond | | Discord Collective |
+| 5. Deep Forest | Level Forest-5 | Patrol | | Discord Collective |
+| 5. Deep Forest | Level Forest-6 | Canyon | | Discord Collective |
+| 5. Deep Forest | Level Forest-7 | Concrete Goals | | Discord Collective |
+| 5. Deep Forest | Level Forest-8 | Victory In The Open | | Discord Collective |
+| 5. Deep Forest | Level Forest-9 | Moving Floor | | Discord Collective |
+| 5. Deep Forest | Level Forest-10 | Lovely House | | Discord Collective |
+| 5. Deep Forest | Level Forest-11 | Supermarket | | Discord Collective |
+| 5. Deep Forest | Level Forest-12 | Lock the Door | | Discord Collective |
+| 5. Deep Forest | Level Forest-13 | Factory | | Discord Collective |
+| 5. Deep Forest | Level Forest-14 | Tiny Pasture | | Discord Collective |
+| 5. Deep Forest | Level Forest-A | Nearly | | Discord Collective |
+| 5. Deep Forest | Level Forest-B | Not Quite | | Discord Collective |
+| 5. Deep Forest | Level Forest-C | Passing Through | | Discord Collective |
+| 5. Deep Forest | Level Forest-D | Salvage | | Discord Collective |
+| 5. Deep Forest | Level Forest-E | Insulation | | Discord Collective |
+| 5. Deep Forest | Level Forest-Extra 1 | Crumbling Floor | | Discord Collective |
+| 5. Deep Forest | Level Forest-Extra 2 | Skull House | | Discord Collective |
+| 6. Rocket Trip | Level Space-1 | Empty | | Discord Collective |
+| 6. Rocket Trip | Level Space-2 | Lonely Flag | | Discord Collective |
+| 6. Rocket Trip | Level Space-3 | Babas Are You | | Discord Collective |
+| 6. Rocket Trip | Level Space-4 | Please Hold My Key | | Discord Collective |
+| 6. Rocket Trip | Level Space-5 | Horror Story | | Discord Collective |
+| 6. Rocket Trip | Level Space-6 | Aiming High | | Discord Collective |
+| 6. Rocket Trip | Level Space-7 | Trio | | Discord Collective |
+| 6. Rocket Trip | Level Space-8 | Bottleneck | | Discord Collective |
+| 6. Rocket Trip | Level Space-9 | Platformer | | Discord Collective |
+| 6. Rocket Trip | Level Space-10 | The Pit | | Discord Collective |
+| 6. Rocket Trip | Level Space-11 | Heavy Words | | Discord Collective |
+| 6. Rocket Trip | Level Space-12 | Guardians | | Discord Collective |
+| 6. Rocket Trip | Level Space-13 | Sky Hold | | Discord Collective |
+| 6. Rocket Trip | Level Space-Extra 1 | Existential Crisis | | Discord Collective |
+| 6. Rocket Trip | Level Space-Extra 2 | Heavy Cloud | | Discord Collective |
+| 7. Flower Garden | Level Garden-1 | Condition | | Discord Collective |
+| 7. Flower Garden | Level Garden-2 | Thicket | | Discord Collective |
+| 7. Flower Garden | Level Garden-3 | Sorting Facility | | Discord Collective |
+| 7. Flower Garden | Level Garden-4 | Relaxing Spot | | Discord Collective |
+| 7. Flower Garden | Level Garden-5 | Maritime Adventures | | Discord Collective |
+| 7. Flower Garden | Level Garden-6 | Ruined Orchard | | Discord Collective |
+| 7. Flower Garden | Level Garden-7 | Blockade | | Discord Collective |
+| 7. Flower Garden | Level Garden-8 | Jaywalkers United | | Discord Collective |
+| 7. Flower Garden | Level Garden-9 | Overgrowth | | Discord Collective |
+| 7. Flower Garden | Level Garden-10 | Adventurers | | Discord Collective |
+| 7. Flower Garden | Level Garden-Extra 1 | Secret Garden | | Discord Collective |
+| 7. Flower Garden | Level Garden-Extra 2 | Out At Sea | | Discord Collective |
+| 8. Chasm | Level Chasm-A | Rocky Prison | | Discord Collective |
+| 8. Chasm | Level Chasm-B | Siege | | Discord Collective |
+| 8. Chasm | Level Chasm-C | Elusive Condition | | Discord Collective |
+| 8. Chasm | Level Chasm-D | Treasury | | Discord Collective |
+| 8. Chasm | Level Chasm-E | Looking for a Heart | | Discord Collective |
+| 8. Chasm | Level Chasm-F | Lava Flood | | Discord Collective |
+| 8. Chasm | Level Chasm-G | Entropy | | Discord Collective |
+| 8. Chasm | Level Chasm-H | Floodgates | | Discord Collective |
+| 8. Chasm | Level Chasm-I | Lonely Sight | | Discord Collective |
+| 8. Chasm | Level Chasm-Extra 1 | Metacognition | | Discord Collective |
+| 8. Chasm | Level Chasm-Extra 2 | Multitool | | Discord Collective |
+| 8. Chasm | Level Chasm-Extra 3 | Broken | | Discord Collective |
+| 8. Chasm | Level Chasm-Extra 4 | Alley | | Discord Collective |
+| 8. Chasm | Level Chasm-Extra 5 | Keke and the Star | | Discord Collective |
+| 8. Chasm | Level Chasm-Extra 6 | Visiting Baba | | Discord Collective |
+| 8. Chasm | Level Chasm-Extra 7 | Automated Doors | | Discord Collective |
+| 9. Volcanic Cavern | Level Cavern-1 | Tour | | Discord Collective |
+| 9. Volcanic Cavern | Level Cavern-2 | Peril at Every Turn | | Discord Collective |
+| 9. Volcanic Cavern | Level Cavern-3 | Pillarwork | | Discord Collective |
+| 9. Volcanic Cavern | Level Cavern-4 | Mouse Hole | | Discord Collective |
+| 9. Volcanic Cavern | Level Cavern-5 | Torn Apart | | Discord Collective |
+| 9. Volcanic Cavern | Level Cavern-6 | Vital Ingredients | | Discord Collective |
+| 9. Volcanic Cavern | Level Cavern-7 | Backstage | | Discord Collective |
+| 9. Volcanic Cavern | Level Cavern-8 | The Heist | | Discord Collective |
+| 9. Volcanic Cavern | Level Cavern-9 | Join the Crew | | Discord Collective |
+| 9. Volcanic Cavern | Level Cavern-10 | Automaton | | Discord Collective |
+| 9. Volcanic Cavern | Level Cavern-11 | Trick Door | | Discord Collective |
+| 9. Volcanic Cavern | Level Cavern-12 | Trapped | | Discord Collective |
+| 9. Volcanic Cavern | Level Cavern-13 | Tunnel | | Discord Collective |
+| 9. Volcanic Cavern | Level Cavern-14 | Broken Expectations | | Discord Collective |
+| 9. Volcanic Cavern | Level Cavern-Extra 1 | Coronation | | Discord Collective |
+| 10. Mountaintop | Level Mountain-1 | Shuffle | | Discord Collective |
+| 10. Mountaintop | Level Mountain-2 | Love at First Sight | | Discord Collective |
+| 10. Mountaintop | Level Mountain-3 | Solitude | | Discord Collective |
+| 10. Mountaintop | Level Mountain-4 | What is Baba? | | Discord Collective |
+| 10. Mountaintop | Level Mountain-5 | Connector | | Discord Collective |
+| 10. Mountaintop | Level Mountain-6 | Floaty Platforms | | Discord Collective |
+| 10. Mountaintop | Level Mountain-7 | Seeking Acceptance | | Discord Collective |
+| 10. Mountaintop | Level Mountain-8 | Tectonic Movements | | Discord Collective |
+| 10. Mountaintop | Level Mountain-Extra 1 | The Floatiest Platforms | | Discord Collective |
+| ??? | Level ???-1 | Glitch | | Discord Collective |
+| ??? | Level ???-2 | Error | | Discord Collective |
+| ??? | Level ???-3 | Whoops | | Discord Collective |
+| ??? | Level ???-4 | Mean Fence | | Discord Collective |
+| ??? | Level ???-5 | Scale | | Discord Collective |
+| ??? | Level ???-6 | Fireplace | | Discord Collective |
+| ??? | Level ???-7 | Turn the Corner | | Discord Collective |
+| ??? | Level ???-7 | Turn the Corner, LEVEL IS BABA | | Discord Collective |
+| ??? | Level ???-8 | VIP Area | | Discord Collective |
+| ??? | Level ???-9 | Tense Atmosphere | | Discord Collective |
+| ??? | Level ???-10 | Tag Team | | Discord Collective |
+| ??? | Level ???-11 | Security Check | | Discord Collective |
+| ??? | Level ???-12 | Ultimate Maze | | Discord Collective |
+| ??? | Level ???-12 | Ultimate Maze, LEVEL IS TEXT | | Discord Collective |
+| ??? | Level ???-A | Do It Yourself | | Discord Collective |
+| ??? | Level ???-B | Write the Rules | | Discord Collective |
+| ??? | Level ???-C | Rewrite the Rules | | Discord Collective |
+| ??? | Level ???-D | Written Instructions | | Discord Collective |
+| ??? | Level ???-D | Written Instructions, LEVEL WRITE WIN | | Discord Collective |
+| ??? | Level ???-Extra 1 | Across | | Discord Collective |
+| ??? | Level ???-Extra 2 | Castle Disaster | | Discord Collective |
+| ??? | Level ???-Extra 3 | Hazel Den | | Discord Collective |
+| ??? | Level ???-Extra 4 | Baba has Keke | | Discord Collective |
+| ??? | Level ???-Secret | Orb | 3 | R3 |
+| ??? | Level ???-Secret | Huh? | | Discord Collective |
+| ??? | Level ???-Secret | Getting Together | | Discord Collective |
+| ABC | Level ABC-1 | Lunar Gallery | | Discord Collective |
+| ABC | Level ABC-2 | Ba | | Discord Collective |
+| ABC | Level ABC-3 | Ab | | Discord Collective |
+| ABC | Level ABC-4 | Wall | | Discord Collective |
+| ABC | Level ABC-5 | Stardrop | | Discord Collective |
+| ABC | Level ABC-Extra 1 | Meteor Strike | | Discord Collective |
+| Depths | Level Depths-1 | Cleaning Service | | Discord Collective |
+| Depths | Level Depths-1 | Cleaning Service, LEVEL IS SKULL | | Discord Collective |
+| Depths | Level Depths-2 | Exercise Hall | | Discord Collective |
+| Depths | Level Depths-3 | Crushers | | Discord Collective |
+| Depths | Level Depths-3 | Crushers, LEVEL IS TEXT | | Discord Collective |
+| Depths | Level Depths-4 | Collaborative Effort | | Discord Collective |
+| Depths | Level Depths-5 | Living Lands | | Discord Collective |
+| Depths | Level Depths-5 | Living Lands, LEVEL IS ME | | Discord Collective |
+| Depths | Level Depths-Extra 1 | Priority Lane | | Discord Collective |
+| Depths | Level Depths-Extra 2 | Parade | | Discord Collective |
+| Depths | Level Depths-Extra 3 | Hidden Relic | | Discord Collective |
+| Depths | Level Depths-Extra 4 | Buried Treasure | | Discord Collective |
+| Depths | Level Depths-Extra 5 | Endless Corridor | | Discord Collective |
+| Meta | Level Meta-1 | Hot Potato | | Discord Collective |
+| Meta | Level Meta-2 | Adventure | | Discord Collective |
+| Meta | Level Meta-3 | Booby Trap | | Discord Collective |
+| Meta | Level Meta-3 | Booby Trap, LEVEL IS BABA | | Discord Collective |
+| Meta | Level Meta-3 | Booby Trap, LEVEL IS BELT, LEVEL IS FLAG | | Discord Collective |
+| Meta | Level Meta-3 | Booby Trap, LEVEL IS FLAG, LEVEL IS TEXT | | Discord Collective |
+| Meta | Level Meta-4 | Canister | | Discord Collective |
+| Meta | Level Meta-5 | Avalanche | | Discord Collective |
+| Meta | Level Meta-5 | Avalanche, LEVEL IS BABA | | Discord Collective |
+| Meta | Level Meta-5 | Avalanche, LEVEL IS CLIFF | | Discord Collective |
+| Meta | Level Meta-6 | One-Way Entrance | | Discord Collective |
+| Meta | Level Meta-7 | Bramblevine | | Discord Collective |
+| Meta | Level Meta-8 | Mutual Feelings | | Discord Collective |
+| Meta | Level Meta-8 | Mutual Feelings, LEVEL IS BABA, LEVEL IS FLAG | | Discord Collective |
+| Meta | Level Meta-9 | Delicate Stars | | Discord Collective |
+| Meta | Level Meta-10 | Just No | | Discord Collective |
+| Meta | Level Meta-11 | Acrobatics | | Discord Collective |
+| Meta | Level Meta-12 | Tangle | | Discord Collective |
+| Meta | Level Meta-12 | Tangle, LEVEL IS BABA | | Discord Collective |
+| Meta | Level Meta-13 | The Box | | Discord Collective |
+| Meta | Level Meta-14 | Queue | | Discord Collective |
+| Meta | Level Meta-15 | Breaking and Entering | | Discord Collective |
+| Meta | Level Meta-15 | Breaking and Entering, LEVEL IS TEXT | | Discord Collective |
+| Meta | Level Meta-16 | The Return of Scenic Pond | | Discord Collective |
+| Meta | Level Meta-Extra 1 | Hidden Path | | Discord Collective |
+| Meta | Level Meta-Extra 2 | Triplets | | Discord Collective |
+| Meta | Level Meta-Extra 3 | Power Generator | | Discord Collective |
+| Meta | Level Meta-Extra 4 | Another Way | | Discord Collective |
+| Meta | Level Meta-Secret | A Prize Well Earned | | Discord Collective |
+| Meta | Level Meta-Secret | Whoa | | Discord Collective |
+| Center || Gallery | | Discord Collective |
+| Center || The End | | Discord Collective |
+| Center || The End, ALL IS DONE | | Discord Collective |
