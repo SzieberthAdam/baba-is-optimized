@@ -12,7 +12,7 @@ The optimizer community is in the [channel-is-full-game-spoilers/min-steps-routi
 Levelpacks
 ----------
 
-* [Baba Is You](https://github.com/SzieberthAdam/baba-is-you-solutions/tree/master/BABA%20IS%20YOU)
+* [Baba Is You](BABA%20IS%20YOU)
 
 
 autobaba
