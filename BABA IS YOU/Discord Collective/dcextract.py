@@ -149,7 +149,7 @@ with (_thisdir.parent /"README.md").open("r", encoding="utf8") as f:
 
 r = {}
 for i, line in enumerate(_r):
-    m = re.search("^\|(.*?)\|(.*?)\|(.*?)\|(.*?)\|(.+?)\|$", line)
+    m = re.search("^\|(.*?)\|(.*?)\|(.*?)\|(.*?)\|(.*?)\|$", line)
     if not m:
         continue
     parts = (i,) +tuple(s.strip() for s in m.groups())
