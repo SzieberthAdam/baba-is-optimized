@@ -244,10 +244,10 @@ while True:
             c.append((parts[0], c_line))
             save()
             out_filename = getfilename(parts, steps, rng)
-            out_path = _thisdir / "solutions-1" / out_filename
+            out_path = _thisdir / "solutions" / out_filename
             with out_path.open("w") as f:
                 f.write(sf.ensure1_v2(solution1))
-            out_path = _thisdir / "solutions-x" / out_filename
+            out_path = _thisdir / "solutions-multiline" / out_filename
             with out_path.open("w") as f:
                 f.write(sf.convert1tox(solution1))
             state = 0
