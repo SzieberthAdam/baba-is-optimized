@@ -3,8 +3,8 @@
 
 | Location | Level Code | Level Name | Steps | Optimized By |
 | -------- | ---------- | ---------- | -----:| ------------ |
-| Map | Level 0 | Baba Is You | [8](solutions/Gallery%2C%2038.txt) | – |
-| Map | Level 1 | Where Do I Go? | 19 | ? |
+| Map | Level 0 | Baba Is You | [8](solutions/Level%200%2C%20Baba%20Is%20You%2C%208.txt) | – |
+| Map | Level 1 | Where Do I Go? | [19](solutions/Level%201%2C%20Where%20Do%20I%20Go(q)%2C%2019.txt) | ? |
 | Map | Level 2 | Now What Is This? | 22 | Butcherberries |
 | Map | Level 3 | Out of Reach | 38 | ? |
 | Map | Level 4 | Still Out of Reach | 31 | ? |
@@ -246,6 +246,6 @@
 | Meta | Level Meta-Extra 4 | Another Way | 206 | Randomiser |
 | Meta | Level Meta-Secret | A Prize Well Earned | 68 | Butcherberries |
 | Meta | Level Meta-Secret | Whoa | 163 | Butcherberries |
-| Center |  | Gallery | 38 | Butcherberries |
+| Center |  | Gallery | [38](solutions/Gallery%2C%2038.txt) | Butcherberries |
 | Center |  | The End | 48 | Laxxius |
 | Center |  | The End, ALL IS DONE | 40 | ? |
