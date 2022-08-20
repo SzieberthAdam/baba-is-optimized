@@ -40,3 +40,15 @@ LD4R2D-RU2DR3-U6RUL-ULD6L-DL6DR6-DRUW-U10
 * `W`: wait (space key)
 * `X`: Exit to Map
 * `Z`: Reset
+
+Thus, the above example transfers to:
+
+```
+left, down, down, down, down, right, right, down,
+right, up, up, down, right, right, right,
+up, up, up, up, up, up, right, up, left,
+up, left, down, down, down, down, down, down, left,
+down, left, left, left, left, left, left, down, right, right, right, right, right, right,
+down, right, up, wait,
+up, up, up, up, up, up, up, up, up, up
+```
