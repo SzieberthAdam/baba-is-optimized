@@ -3,7 +3,7 @@
 
 | Location | Level Code | Level Name | Steps | Optimized By |
 | -------- | ---------- | ---------- | -----:| ------------ |
-| Map | Level 0 | Baba Is You | [8]("solutions/Gallery%2C%2038.txt") | – |
+| Map | Level 0 | Baba Is You | [8](solutions/Gallery%2C%2038.txt) | – |
 | Map | Level 1 | Where Do I Go? | 19 | ? |
 | Map | Level 2 | Now What Is This? | 22 | Butcherberries |
 | Map | Level 3 | Out of Reach | 38 | ? |
