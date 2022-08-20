@@ -1,8 +1,8 @@
 ﻿LEVELPACK: *BABA IS YOU*
 ========================
 
-| Location | Level Code | Level Name | Steps | Optimized By |
-| -------- | ---------- | ---------- | -----:| ------------ |
+| Location | Level Code | Level Name | Steps¹ | Optimized By |
+| -------- | ---------- | ---------- | ------:| ------------ |
 | Map | Level 0 | Baba Is You | [8](solutions/Level%200%2C%20Baba%20Is%20You%2C%208.txt) | – |
 | Map | Level 1 | Where Do I Go? | [19](solutions/Level%201%2C%20Where%20Do%20I%20Go(q)%2C%2019.txt) | ? |
 | Map | Level 2 | Now What Is This? | [22](solutions/Level%202%2C%20Now%20What%20Is%20This(q)%2C%2022.txt) | Butcherberries |
@@ -249,3 +249,5 @@
 | Center |  | Gallery | [38](solutions/Gallery%2C%2038.txt) | Butcherberries |
 | Center |  | The End | [48](solutions/The%20End%2C%2048.txt) | Laxxius |
 | Center |  | The End, ALL IS DONE | [40](solutions/The%20End%2C%20ALL%20IS%20DONE%2C%2040.txt) | ? |
+
+¹ `?` after the number of steps indicates dependency from randomness
