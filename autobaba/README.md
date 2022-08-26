@@ -61,37 +61,30 @@ The syntax of a solution is very simple.
 Solutions are stored in plain text files with `.TXT` extension.
 
 ```
+U
 L
 L
-D
 L # -WALL IS STOP
-U
-U
-U
-U
-U
-U
-U
-U
-R
-R
-D
-R
-R
-U
 L
 L
-L # +WALL IS WIN
+L
+L # -BABA IS YOU; +WALL IS YOU
+U
+U
+U
+R
+R
 D
 D
-D
-wD
+R
+R
+R
+wR # +FLAG IS WIN
 ```
 
-This is the shortest solution of *Level 1: Where Do I Go?*, done in 25 time units.
-[See it in this repo](https://github.com/SzieberthAdam/baba-is-you-solutions/blob/master/BABA%20IS%20YOU/solutions/Level-1%2C%20Where%20Do%20I%20Go(q)%2C%2025.txt).
-[Watch the solution by Alayric](https://youtu.be/42OOvZxvH6k).
-You can count the lines one-by-one to get the time units the solution takes which is 25.
+This is the shortest known solution of *Level 1: Where Do I Go?*, done in 19 time units.
+[See it in this repo](https://github.com/SzieberthAdam/baba-is-you-solutions/blob/master/BABA%20IS%20YOU/solutions-multiline/Level-1%2C%20Where%20Do%20I%20Go(q)%2C%2019.txt).
+You can count the lines one-by-one to get the time units the solution takes which is 19.
 I rather recommend using a text editor which has line numbering to see how many.
 I personally use [Notepad2](https://www.flos-freeware.ch/notepad2.html).
 

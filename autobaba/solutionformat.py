@@ -58,3 +58,63 @@ def convert1tox(solution1):
         for i in range(t[1]):
             steps.append(t[0])
     return "\n".join(steps)
+
+
+def splitx_1(solutionx):
+    result = []
+    program = [s for s in program_text.strip().split("\n") if s]
+    lastaction = None
+    lastactioncount = 0
+    for s in program:
+        command, _, comment = s.partition("#")
+        command = command.rstrip()
+        comment = comment.lstrip()
+        while command[0] not in "UDLRWXZ":
+            if command[0] in "?":
+                result.append("#random-dependent")
+                command = command[1:]
+                continue
+            if command[0] in "w":
+                result.append("#win-next")
+                command = command[1:]
+                continue
+            raise AssertionError
+        assert command[0] in "UDLRWXZ"
+        result.append(command[0])
+        command = command[1:]
+        while command[0]:
+            if command[0] in "y":
+                result.append("#not-is-you")
+                command = command[1:]
+                continue
+            raise AssertionError
+    return tuple(result)
+
+
+def splitx_2(solutionx):
+    result = []
+    lastaction = None
+    lastactioncount = 0
+    for action in splitx_1(solutionx):
+        if action not in "UDLRWXZ":
+            continue
+        if action == lastaction:
+            lastactioncount += 1
+        else:
+            if lastaction is not None:
+                result.append((lastaction, lastactioncount))
+            lastaction = action
+            lastactioncount = 1
+    if lastaction is not None::
+        result.append((lastaction, lastactioncount))
+    return tuple(result)
+
+
+def convertxto1_v1(solutionx):
+    """converts a one input per line solution to a oneliner (version 1) format"""
+    return "".join(f'{t[0]}{t[1]}' for t in splitx_2(solutionx))
+
+
+def convertxto1_v2(solutionx):
+    """converts a one input per line solution to a oneliner (version 2) format"""
+    return sectionize1(convertxto1_v1(solutionx))

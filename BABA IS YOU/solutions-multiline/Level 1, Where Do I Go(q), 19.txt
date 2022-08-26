@@ -1,11 +1,11 @@
 U
 L
 L
+L # -WALL IS STOP
 L
 L
 L
-L
-L
+L # -BABA IS YOU; +WALL IS YOU
 U
 U
 U
@@ -16,4 +16,4 @@ D
 R
 R
 R
-R
+wR # +FLAG IS WIN

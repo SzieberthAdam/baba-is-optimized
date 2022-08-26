@@ -14,13 +14,14 @@ key_dict = {
     "R": "Right",
     "U": "Up",
     "D": "Down",
-    ".": "Space",
+    "W": "Space",
+    #"X": "Exit to Map",
+    #"Z": "Reset",
 }
 
 key_dict2 = {
     "?": "",
     "y": "Sleep %NotYouRelax%",
-    "t": "Sleep %TeleportRelax%",
     "w": "Sleep %WinRelax%",
 }
 

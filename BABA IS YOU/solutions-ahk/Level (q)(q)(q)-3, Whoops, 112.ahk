@@ -363,14 +363,14 @@ Sleep %KeyDownTime%
 Send, {Right up}
 Sleep %BabaStepRelax%
 
-Send, {Up down}
+Send, {Right down}
 Sleep %KeyDownTime%
-Send, {Up up}
+Send, {Right up}
 Sleep %BabaStepRelax%
 
-Send, {Down down}
+Send, {Right down}
 Sleep %KeyDownTime%
-Send, {Down up}
+Send, {Right up}
 Sleep %BabaStepRelax%
 
 Send, {Right down}
@@ -388,31 +388,6 @@ Sleep %KeyDownTime%
 Send, {Down up}
 Sleep %BabaStepRelax%
 
-Send, {Right down}
-Sleep %KeyDownTime%
-Send, {Right up}
-Sleep %BabaStepRelax%
-
-Send, {Right down}
-Sleep %KeyDownTime%
-Send, {Right up}
-Sleep %BabaStepRelax%
-
-Send, {Up down}
-Sleep %KeyDownTime%
-Send, {Up up}
-Sleep %BabaStepRelax%
-
-Send, {Left down}
-Sleep %KeyDownTime%
-Send, {Left up}
-Sleep %BabaStepRelax%
-
-Send, {Left down}
-Sleep %KeyDownTime%
-Send, {Left up}
-Sleep %BabaStepRelax%
-
 Send, {Left down}
 Sleep %KeyDownTime%
 Send, {Left up}
@@ -428,49 +403,14 @@ Sleep %KeyDownTime%
 Send, {Up up}
 Sleep %BabaStepRelax%
 
-Send, {Right down}
+Send, {Down down}
 Sleep %KeyDownTime%
-Send, {Right up}
+Send, {Down up}
 Sleep %BabaStepRelax%
 
-Send, {Up down}
+Send, {Left down}
 Sleep %KeyDownTime%
-Send, {Up up}
-Sleep %BabaStepRelax%
-
-Send, {Up down}
-Sleep %KeyDownTime%
-Send, {Up up}
-Sleep %BabaStepRelax%
-
-Send, {Up down}
-Sleep %KeyDownTime%
-Send, {Up up}
-Sleep %BabaStepRelax%
-
-Send, {Up down}
-Sleep %KeyDownTime%
-Send, {Up up}
-Sleep %BabaStepRelax%
-
-Send, {Up down}
-Sleep %KeyDownTime%
-Send, {Up up}
-Sleep %BabaStepRelax%
-
-Send, {Up down}
-Sleep %KeyDownTime%
-Send, {Up up}
-Sleep %BabaStepRelax%
-
-Send, {Up down}
-Sleep %KeyDownTime%
-Send, {Up up}
-Sleep %BabaStepRelax%
-
-Send, {Up down}
-Sleep %KeyDownTime%
-Send, {Up up}
+Send, {Left up}
 Sleep %BabaStepRelax%
 
 Send, {Up down}
@@ -483,59 +423,9 @@ Sleep %KeyDownTime%
 Send, {Left up}
 Sleep %BabaStepRelax%
 
-Send, {Down down}
+Send, {Up down}
 Sleep %KeyDownTime%
-Send, {Down up}
-Sleep %BabaStepRelax%
-
-Send, {Down down}
-Sleep %KeyDownTime%
-Send, {Down up}
-Sleep %BabaStepRelax%
-
-Send, {Down down}
-Sleep %KeyDownTime%
-Send, {Down up}
-Sleep %BabaStepRelax%
-
-Send, {Down down}
-Sleep %KeyDownTime%
-Send, {Down up}
-Sleep %BabaStepRelax%
-
-Send, {Down down}
-Sleep %KeyDownTime%
-Send, {Down up}
-Sleep %BabaStepRelax%
-
-Send, {Down down}
-Sleep %KeyDownTime%
-Send, {Down up}
-Sleep %BabaStepRelax%
-
-Send, {Down down}
-Sleep %KeyDownTime%
-Send, {Down up}
-Sleep %BabaStepRelax%
-
-Send, {Down down}
-Sleep %KeyDownTime%
-Send, {Down up}
-Sleep %BabaStepRelax%
-
-Send, {Down down}
-Sleep %KeyDownTime%
-Send, {Down up}
-Sleep %BabaStepRelax%
-
-Send, {Left down}
-Sleep %KeyDownTime%
-Send, {Left up}
-Sleep %BabaStepRelax%
-
-Send, {Down down}
-Sleep %KeyDownTime%
-Send, {Down up}
+Send, {Up up}
 Sleep %BabaStepRelax%
 
 Send, {Right down}
@@ -543,14 +433,99 @@ Sleep %KeyDownTime%
 Send, {Right up}
 Sleep %BabaStepRelax%
 
-Send, {Right down}
+Send, {Up down}
 Sleep %KeyDownTime%
-Send, {Right up}
+Send, {Up up}
+Sleep %BabaStepRelax%
+
+Send, {Up down}
+Sleep %KeyDownTime%
+Send, {Up up}
+Sleep %BabaStepRelax%
+
+Send, {Up down}
+Sleep %KeyDownTime%
+Send, {Up up}
+Sleep %BabaStepRelax%
+
+Send, {Up down}
+Sleep %KeyDownTime%
+Send, {Up up}
+Sleep %BabaStepRelax%
+
+Send, {Up down}
+Sleep %KeyDownTime%
+Send, {Up up}
+Sleep %BabaStepRelax%
+
+Send, {Up down}
+Sleep %KeyDownTime%
+Send, {Up up}
+Sleep %BabaStepRelax%
+
+Send, {Up down}
+Sleep %KeyDownTime%
+Send, {Up up}
+Sleep %BabaStepRelax%
+
+Send, {Up down}
+Sleep %KeyDownTime%
+Send, {Up up}
+Sleep %BabaStepRelax%
+
+Send, {Up down}
+Sleep %KeyDownTime%
+Send, {Up up}
 Sleep %BabaStepRelax%
 
 Send, {Left down}
 Sleep %KeyDownTime%
 Send, {Left up}
+Sleep %BabaStepRelax%
+
+Send, {Down down}
+Sleep %KeyDownTime%
+Send, {Down up}
+Sleep %BabaStepRelax%
+
+Send, {Down down}
+Sleep %KeyDownTime%
+Send, {Down up}
+Sleep %BabaStepRelax%
+
+Send, {Down down}
+Sleep %KeyDownTime%
+Send, {Down up}
+Sleep %BabaStepRelax%
+
+Send, {Down down}
+Sleep %KeyDownTime%
+Send, {Down up}
+Sleep %BabaStepRelax%
+
+Send, {Down down}
+Sleep %KeyDownTime%
+Send, {Down up}
+Sleep %BabaStepRelax%
+
+Send, {Down down}
+Sleep %KeyDownTime%
+Send, {Down up}
+Sleep %BabaStepRelax%
+
+Send, {Down down}
+Sleep %KeyDownTime%
+Send, {Down up}
+Sleep %BabaStepRelax%
+
+Send, {Down down}
+Sleep %KeyDownTime%
+Send, {Down up}
+Sleep %BabaStepRelax%
+
+Send, {Down down}
+Sleep %KeyDownTime%
+Send, {Down up}
 Sleep %BabaStepRelax%
 
 Send, {Left down}
@@ -568,7 +543,30 @@ Sleep %KeyDownTime%
 Send, {Right up}
 Sleep %BabaStepRelax%
 
-Sleep %WinRelax%
+Send, {Right down}
+Sleep %KeyDownTime%
+Send, {Right up}
+Sleep %BabaStepRelax%
+
+Send, {Left down}
+Sleep %KeyDownTime%
+Send, {Left up}
+Sleep %BabaStepRelax%
+
+Send, {Left down}
+Sleep %KeyDownTime%
+Send, {Left up}
+Sleep %BabaStepRelax%
+
+Send, {Down down}
+Sleep %KeyDownTime%
+Send, {Down up}
+Sleep %BabaStepRelax%
+
+Send, {Right down}
+Sleep %KeyDownTime%
+Send, {Right up}
+Sleep %BabaStepRelax%
 
 Send, {Right down}
 Sleep %KeyDownTime%

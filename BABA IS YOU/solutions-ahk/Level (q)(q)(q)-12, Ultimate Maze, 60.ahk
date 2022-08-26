@@ -308,8 +308,6 @@ Sleep %KeyDownTime%
 Send, {Up up}
 Sleep %BabaStepRelax%
 
-Sleep %WinRelax%
-
 Send, {Up down}
 Sleep %KeyDownTime%
 Send, {Up up}

@@ -3,8 +3,8 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
-KeyDownTime = 25
-BabaStepRelax = 175
+KeyDownTime = 50
+BabaStepRelax = 150
 NotYouRelax = 0
 TeleportRelax = 0
 WinRelax = 0
@@ -78,14 +78,14 @@ Sleep %KeyDownTime%
 Send, {Left up}
 Sleep %BabaStepRelax%
 
-Send, {Up down}
-Sleep %KeyDownTime%
-Send, {Up up}
-Sleep %BabaStepRelax%
-
 Send, {Left down}
 Sleep %KeyDownTime%
 Send, {Left up}
+Sleep %BabaStepRelax%
+
+Send, {Up down}
+Sleep %KeyDownTime%
+Send, {Up up}
 Sleep %BabaStepRelax%
 
 Send, {Left down}
@@ -238,6 +238,21 @@ Sleep %KeyDownTime%
 Send, {Right up}
 Sleep %BabaStepRelax%
 
+Send, {Down down}
+Sleep %KeyDownTime%
+Send, {Down up}
+Sleep %BabaStepRelax%
+
+Send, {Down down}
+Sleep %KeyDownTime%
+Send, {Down up}
+Sleep %BabaStepRelax%
+
+Send, {Down down}
+Sleep %KeyDownTime%
+Send, {Down up}
+Sleep %BabaStepRelax%
+
 Send, {Left down}
 Sleep %KeyDownTime%
 Send, {Left up}
@@ -246,21 +261,6 @@ Sleep %BabaStepRelax%
 Send, {Left down}
 Sleep %KeyDownTime%
 Send, {Left up}
-Sleep %BabaStepRelax%
-
-Send, {Down down}
-Sleep %KeyDownTime%
-Send, {Down up}
-Sleep %BabaStepRelax%
-
-Send, {Down down}
-Sleep %KeyDownTime%
-Send, {Down up}
-Sleep %BabaStepRelax%
-
-Send, {Down down}
-Sleep %KeyDownTime%
-Send, {Down up}
 Sleep %BabaStepRelax%
 
 Send, {Down down}
@@ -323,26 +323,24 @@ Sleep %KeyDownTime%
 Send, {Left up}
 Sleep %BabaStepRelax%
 
+Send, {Up down}
+Sleep %KeyDownTime%
+Send, {Up up}
+Sleep %BabaStepRelax%
+
+Send, {Up down}
+Sleep %KeyDownTime%
+Send, {Up up}
+Sleep %BabaStepRelax%
+
+Send, {Up down}
+Sleep %KeyDownTime%
+Send, {Up up}
+Sleep %BabaStepRelax%
+
 Send, {Left down}
 Sleep %KeyDownTime%
 Send, {Left up}
-Sleep %BabaStepRelax%
-
-Send, {Up down}
-Sleep %KeyDownTime%
-Send, {Up up}
-Sleep %BabaStepRelax%
-
-Send, {Up down}
-Sleep %KeyDownTime%
-Send, {Up up}
-Sleep %BabaStepRelax%
-
-Sleep %WinRelax%
-
-Send, {Up down}
-Sleep %KeyDownTime%
-Send, {Up up}
 Sleep %BabaStepRelax%
 
 
