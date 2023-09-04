@@ -1,13 +1,13 @@
-﻿BABA IS OPTIMIZED – Baba Is You Optimized Solutions & Walkthrough
-=================================================================
+﻿# BABA IS OPTIMIZED – Baba Is You (Outdated) Optimized Solutions & Walkthrough
 
-The goal of this repo is to store the shortest known solutions and walkthrough of Baba Is You, which is a puzzle video game created by Finnish indie developer Arvi Teikari aka. Hempuli.
-
-*Claim your record solution by making a pull request or by contacting me on [Baba Is You Discord](https://discord.com/invite/GGbUUse)!*
+The original goal of this repo is to store the shortest known solutions and walkthrough of Baba Is You, which is a puzzle video game created by Finnish indie developer Arvi Teikari aka. Hempuli.
 
 The optimizer community is in the [channel-is-full-game-spoilers/min-steps-routing thread](https://discord.com/channels/556333985882439680/878875784041865236).
 
-*YouTube videos soon!*
+Some videos made with this tool and AutoHotkey and OBS Studio:
+https://www.youtube.com/playlist?list=PL2Qu4Gqa0Mog2g3XkWth-2RD7787K4rj5
+
+*Archived as I am not committed enough to maintain it. -- SzieberthAdam*
 
 Levelpacks
 ----------
